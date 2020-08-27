@@ -1,0 +1,417 @@
+[2020-08-20 23:09:46,598][base.py:440][INFO][12636] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:09:46,606][base.py:881][INFO][12636] - Added job "time_task" to job store "default"
+[2020-08-20 23:09:46,606][base.py:166][INFO][12636] - Scheduler started
+[2020-08-20 23:09:46,607][base.py:940][DEBUG][92] - Looking for jobs to run
+[2020-08-20 23:09:46,608][base.py:1020][DEBUG][92] - Next wakeup is due at 2020-08-20 23:10:46.598082+08:00 (in 59.991008 seconds)
+[2020-08-20 23:09:46,695][_internal.py:113][INFO][12636] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:09:46,788][_internal.py:113][INFO][10168] - 127.0.0.1 - - [20/Aug/2020 23:09:46] "[33mGET /v1/user/test HTTP/1.1[0m" 404 -
+[2020-08-20 23:09:49,998][_internal.py:113][INFO][11216] - 127.0.0.1 - - [20/Aug/2020 23:09:49] "[33mGET /v1/user/test HTTP/1.1[0m" 404 -
+[2020-08-20 23:10:03,427][_internal.py:113][INFO][1944] - 127.0.0.1 - - [20/Aug/2020 23:10:03] "[33mGET /v1/user/test123 HTTP/1.1[0m" 404 -
+[2020-08-20 23:10:46,609][base.py:940][DEBUG][92] - Looking for jobs to run
+[2020-08-20 23:10:46,611][base.py:123][INFO][1472] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:10:46 CST)" (scheduled at 2020-08-20 23:10:46.598082+08:00)
+[2020-08-20 23:10:46,612][base.py:1020][DEBUG][92] - Next wakeup is due at 2020-08-20 23:11:46.598082+08:00 (in 59.988473 seconds)
+[2020-08-20 23:10:46,613][base.py:144][INFO][1472] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:11:46 CST)" executed successfully
+[2020-08-20 23:11:13,388][base.py:440][INFO][4644] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:11:13,392][base.py:881][INFO][4644] - Added job "time_task" to job store "default"
+[2020-08-20 23:11:13,392][base.py:166][INFO][4644] - Scheduler started
+[2020-08-20 23:11:13,393][base.py:940][DEBUG][5384] - Looking for jobs to run
+[2020-08-20 23:11:13,395][base.py:1020][DEBUG][5384] - Next wakeup is due at 2020-08-20 23:12:13.387658+08:00 (in 59.992005 seconds)
+[2020-08-20 23:11:13,449][_internal.py:113][INFO][4644] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:11:19,031][_internal.py:113][INFO][2440] - 127.0.0.1 - - [20/Aug/2020 23:11:19] "[37mGET /v1/user/test123 HTTP/1.1[0m" 200 -
+[2020-08-20 23:11:36,830][_internal.py:113][INFO][8016] - 127.0.0.1 - - [20/Aug/2020 23:11:36] "[31m[1mGET /v1/user/getToken HTTP/1.1[0m" 405 -
+[2020-08-20 23:12:13,389][base.py:940][DEBUG][5384] - Looking for jobs to run
+[2020-08-20 23:12:13,392][base.py:123][INFO][10704] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:12:13 CST)" (scheduled at 2020-08-20 23:12:13.387658+08:00)
+[2020-08-20 23:12:13,393][base.py:1020][DEBUG][5384] - Next wakeup is due at 2020-08-20 23:13:13.387658+08:00 (in 59.998647 seconds)
+[2020-08-20 23:12:13,394][base.py:144][INFO][10704] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:13:13 CST)" executed successfully
+[2020-08-20 23:12:17,387][_internal.py:113][INFO][7452] - 127.0.0.1 - - [20/Aug/2020 23:12:17] "[37mPOST /v1/user/getToken HTTP/1.1[0m" 200 -
+[2020-08-20 23:13:13,393][base.py:940][DEBUG][5384] - Looking for jobs to run
+[2020-08-20 23:13:13,394][base.py:123][INFO][10704] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:13:13 CST)" (scheduled at 2020-08-20 23:13:13.387658+08:00)
+[2020-08-20 23:13:13,396][base.py:1020][DEBUG][5384] - Next wakeup is due at 2020-08-20 23:14:13.387658+08:00 (in 59.994580 seconds)
+[2020-08-20 23:13:13,396][base.py:144][INFO][10704] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:14:13 CST)" executed successfully
+[2020-08-20 23:14:13,391][base.py:940][DEBUG][5384] - Looking for jobs to run
+[2020-08-20 23:14:13,391][base.py:123][INFO][5744] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:14:13 CST)" (scheduled at 2020-08-20 23:14:13.387658+08:00)
+[2020-08-20 23:14:13,391][base.py:1020][DEBUG][5384] - Next wakeup is due at 2020-08-20 23:15:13.387658+08:00 (in 59.996429 seconds)
+[2020-08-20 23:14:13,392][base.py:144][INFO][5744] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:15:13 CST)" executed successfully
+[2020-08-20 23:15:13,388][base.py:940][DEBUG][5384] - Looking for jobs to run
+[2020-08-20 23:15:13,390][base.py:123][INFO][10704] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:15:13 CST)" (scheduled at 2020-08-20 23:15:13.387658+08:00)
+[2020-08-20 23:15:13,391][base.py:144][INFO][10704] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:15:13 CST)" executed successfully
+[2020-08-20 23:15:13,393][base.py:1020][DEBUG][5384] - Next wakeup is due at 2020-08-20 23:16:13.387658+08:00 (in 59.998768 seconds)
+[2020-08-20 23:16:13,393][base.py:940][DEBUG][5384] - Looking for jobs to run
+[2020-08-20 23:16:13,394][base.py:123][INFO][5744] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:16:13 CST)" (scheduled at 2020-08-20 23:16:13.387658+08:00)
+[2020-08-20 23:16:13,395][base.py:1020][DEBUG][5384] - Next wakeup is due at 2020-08-20 23:17:13.387658+08:00 (in 59.993806 seconds)
+[2020-08-20 23:16:13,396][base.py:144][INFO][5744] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:17:13 CST)" executed successfully
+[2020-08-20 23:17:13,391][base.py:940][DEBUG][5384] - Looking for jobs to run
+[2020-08-20 23:17:13,393][base.py:123][INFO][12632] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:17:13 CST)" (scheduled at 2020-08-20 23:17:13.387658+08:00)
+[2020-08-20 23:17:13,394][base.py:1020][DEBUG][5384] - Next wakeup is due at 2020-08-20 23:18:13.387658+08:00 (in 59.995871 seconds)
+[2020-08-20 23:17:13,395][base.py:144][INFO][12632] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:18:13 CST)" executed successfully
+[2020-08-20 23:18:13,392][base.py:940][DEBUG][5384] - Looking for jobs to run
+[2020-08-20 23:18:13,393][base.py:123][INFO][4860] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:18:13 CST)" (scheduled at 2020-08-20 23:18:13.387658+08:00)
+[2020-08-20 23:18:13,394][base.py:144][INFO][4860] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:18:13 CST)" executed successfully
+[2020-08-20 23:18:13,395][base.py:1020][DEBUG][5384] - Next wakeup is due at 2020-08-20 23:19:13.387658+08:00 (in 59.995055 seconds)
+[2020-08-20 23:19:13,392][base.py:940][DEBUG][5384] - Looking for jobs to run
+[2020-08-20 23:19:13,394][base.py:123][INFO][5744] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:19:13 CST)" (scheduled at 2020-08-20 23:19:13.387658+08:00)
+[2020-08-20 23:19:13,396][base.py:1020][DEBUG][5384] - Next wakeup is due at 2020-08-20 23:20:13.387658+08:00 (in 59.994599 seconds)
+[2020-08-20 23:19:13,397][base.py:144][INFO][5744] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:20:13 CST)" executed successfully
+[2020-08-20 23:20:13,391][base.py:940][DEBUG][5384] - Looking for jobs to run
+[2020-08-20 23:20:13,393][base.py:123][INFO][13680] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:20:13 CST)" (scheduled at 2020-08-20 23:20:13.387658+08:00)
+[2020-08-20 23:20:13,394][base.py:144][INFO][13680] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:20:13 CST)" executed successfully
+[2020-08-20 23:20:13,394][base.py:1020][DEBUG][5384] - Next wakeup is due at 2020-08-20 23:21:13.387658+08:00 (in 59.995420 seconds)
+[2020-08-20 23:21:13,391][base.py:940][DEBUG][5384] - Looking for jobs to run
+[2020-08-20 23:21:13,391][base.py:123][INFO][13060] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:21:13 CST)" (scheduled at 2020-08-20 23:21:13.387658+08:00)
+[2020-08-20 23:21:13,391][base.py:144][INFO][13060] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:21:13 CST)" executed successfully
+[2020-08-20 23:21:13,392][base.py:1020][DEBUG][5384] - Next wakeup is due at 2020-08-20 23:22:13.387658+08:00 (in 59.995858 seconds)
+[2020-08-20 23:22:13,389][base.py:940][DEBUG][5384] - Looking for jobs to run
+[2020-08-20 23:22:13,389][base.py:1020][DEBUG][5384] - Next wakeup is due at 2020-08-20 23:23:13.387658+08:00 (in 59.998494 seconds)
+[2020-08-20 23:22:13,390][base.py:123][INFO][4860] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:23:13 CST)" (scheduled at 2020-08-20 23:22:13.387658+08:00)
+[2020-08-20 23:22:13,391][base.py:144][INFO][4860] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:23:13 CST)" executed successfully
+[2020-08-20 23:22:20,388][base.py:440][INFO][2352] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:22:20,389][base.py:881][INFO][2352] - Added job "time_task" to job store "default"
+[2020-08-20 23:22:20,389][base.py:166][INFO][2352] - Scheduler started
+[2020-08-20 23:22:20,390][base.py:940][DEBUG][4484] - Looking for jobs to run
+[2020-08-20 23:22:20,390][base.py:1020][DEBUG][4484] - Next wakeup is due at 2020-08-20 23:23:20.388475+08:00 (in 59.998001 seconds)
+[2020-08-20 23:24:09,595][base.py:440][INFO][12036] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:24:09,597][base.py:881][INFO][12036] - Added job "time_task" to job store "default"
+[2020-08-20 23:24:09,597][base.py:166][INFO][12036] - Scheduler started
+[2020-08-20 23:24:09,597][base.py:940][DEBUG][10836] - Looking for jobs to run
+[2020-08-20 23:24:09,597][base.py:1020][DEBUG][10836] - Next wakeup is due at 2020-08-20 23:25:09.595266+08:00 (in 59.998001 seconds)
+[2020-08-20 23:24:29,160][base.py:440][INFO][13928] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:24:29,161][base.py:881][INFO][13928] - Added job "time_task" to job store "default"
+[2020-08-20 23:24:29,161][base.py:166][INFO][13928] - Scheduler started
+[2020-08-20 23:24:29,162][base.py:940][DEBUG][3328] - Looking for jobs to run
+[2020-08-20 23:24:29,162][base.py:1020][DEBUG][3328] - Next wakeup is due at 2020-08-20 23:25:29.160840+08:00 (in 59.997988 seconds)
+[2020-08-20 23:24:29,206][_internal.py:113][INFO][13928] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:24:37,289][app.py:1892][ERROR][11440] - Exception on /v1/user/login [GET]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_httpauth.py", line 219, in authenticate
+    return self.verify_password_callback(username, client_password)
+TypeError: verify_token() takes 1 positional argument but 2 were given
+[2020-08-20 23:24:37,301][_internal.py:113][INFO][11440] - 127.0.0.1 - - [20/Aug/2020 23:24:37] "[35m[1mGET /v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-20 23:25:29,161][base.py:940][DEBUG][3328] - Looking for jobs to run
+[2020-08-20 23:25:29,161][base.py:123][INFO][4488] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:25:29 CST)" (scheduled at 2020-08-20 23:25:29.160840+08:00)
+[2020-08-20 23:25:29,162][base.py:1020][DEBUG][3328] - Next wakeup is due at 2020-08-20 23:26:29.160840+08:00 (in 59.999395 seconds)
+[2020-08-20 23:25:29,162][base.py:144][INFO][4488] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:26:29 CST)" executed successfully
+[2020-08-20 23:26:11,415][base.py:440][INFO][15252] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:26:11,417][base.py:881][INFO][15252] - Added job "time_task" to job store "default"
+[2020-08-20 23:26:11,417][base.py:166][INFO][15252] - Scheduler started
+[2020-08-20 23:26:11,424][base.py:940][DEBUG][13292] - Looking for jobs to run
+[2020-08-20 23:26:11,426][base.py:1020][DEBUG][13292] - Next wakeup is due at 2020-08-20 23:27:11.414548+08:00 (in 59.989021 seconds)
+[2020-08-20 23:26:11,489][_internal.py:113][INFO][15252] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:26:34,823][base.py:440][INFO][13204] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:26:34,825][base.py:881][INFO][13204] - Added job "time_task" to job store "default"
+[2020-08-20 23:26:34,825][base.py:166][INFO][13204] - Scheduler started
+[2020-08-20 23:26:34,827][base.py:940][DEBUG][9144] - Looking for jobs to run
+[2020-08-20 23:26:34,828][base.py:1020][DEBUG][9144] - Next wakeup is due at 2020-08-20 23:27:34.822192+08:00 (in 59.994005 seconds)
+[2020-08-20 23:26:34,893][_internal.py:113][INFO][13204] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:26:36,143][app.py:1892][ERROR][3064] - Exception on /v1/user/login [GET]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_httpauth.py", line 219, in authenticate
+    return self.verify_password_callback(username, client_password)
+TypeError: verify_token() takes 1 positional argument but 2 were given
+[2020-08-20 23:26:36,164][_internal.py:113][INFO][3064] - 127.0.0.1 - - [20/Aug/2020 23:26:36] "[35m[1mGET /v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-20 23:27:34,824][base.py:940][DEBUG][9144] - Looking for jobs to run
+[2020-08-20 23:27:34,831][base.py:123][INFO][13208] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:27:34 CST)" (scheduled at 2020-08-20 23:27:34.822192+08:00)
+[2020-08-20 23:27:34,835][base.py:1020][DEBUG][9144] - Next wakeup is due at 2020-08-20 23:28:34.822192+08:00 (in 59.996943 seconds)
+[2020-08-20 23:27:34,837][base.py:144][INFO][13208] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:28:34 CST)" executed successfully
+[2020-08-20 23:28:06,594][base.py:440][INFO][12428] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:28:06,595][base.py:881][INFO][12428] - Added job "time_task" to job store "default"
+[2020-08-20 23:28:06,596][base.py:166][INFO][12428] - Scheduler started
+[2020-08-20 23:28:06,596][base.py:940][DEBUG][6928] - Looking for jobs to run
+[2020-08-20 23:28:06,596][base.py:1020][DEBUG][6928] - Next wakeup is due at 2020-08-20 23:29:06.594816+08:00 (in 59.998002 seconds)
+[2020-08-20 23:28:06,630][_internal.py:113][INFO][12428] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:28:09,512][app.py:1892][ERROR][10608] - Exception on /v1/user/login [GET]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_httpauth.py", line 219, in authenticate
+    return self.verify_password_callback(username, client_password)
+TypeError: verify_password() takes 1 positional argument but 2 were given
+[2020-08-20 23:28:09,515][_internal.py:113][INFO][10608] - 127.0.0.1 - - [20/Aug/2020 23:28:09] "[35m[1mGET /v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-20 23:29:06,596][base.py:940][DEBUG][6928] - Looking for jobs to run
+[2020-08-20 23:29:06,597][base.py:123][INFO][10220] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:29:06 CST)" (scheduled at 2020-08-20 23:29:06.594816+08:00)
+[2020-08-20 23:29:06,597][base.py:1020][DEBUG][6928] - Next wakeup is due at 2020-08-20 23:30:06.594816+08:00 (in 59.998211 seconds)
+[2020-08-20 23:29:06,598][base.py:144][INFO][10220] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:30:06 CST)" executed successfully
+[2020-08-20 23:29:43,687][base.py:440][INFO][11352] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:29:43,689][base.py:881][INFO][11352] - Added job "time_task" to job store "default"
+[2020-08-20 23:29:43,689][base.py:166][INFO][11352] - Scheduler started
+[2020-08-20 23:29:43,689][base.py:940][DEBUG][1736] - Looking for jobs to run
+[2020-08-20 23:29:43,689][base.py:1020][DEBUG][1736] - Next wakeup is due at 2020-08-20 23:30:43.687067+08:00 (in 59.997986 seconds)
+[2020-08-20 23:29:43,722][_internal.py:113][INFO][11352] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:29:46,276][app.py:1892][ERROR][10020] - Exception on /v1/user/login [GET]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_httpauth.py", line 219, in authenticate
+    return self.verify_password_callback(username, client_password)
+TypeError: verify_token() takes 1 positional argument but 2 were given
+[2020-08-20 23:29:46,280][_internal.py:113][INFO][10020] - 127.0.0.1 - - [20/Aug/2020 23:29:46] "[35m[1mGET /v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-20 23:30:36,027][base.py:440][INFO][3768] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:30:36,029][base.py:881][INFO][3768] - Added job "time_task" to job store "default"
+[2020-08-20 23:30:36,029][base.py:166][INFO][3768] - Scheduler started
+[2020-08-20 23:30:36,029][base.py:940][DEBUG][12864] - Looking for jobs to run
+[2020-08-20 23:30:36,029][base.py:1020][DEBUG][12864] - Next wakeup is due at 2020-08-20 23:31:36.027501+08:00 (in 59.998004 seconds)
+[2020-08-20 23:30:36,062][_internal.py:113][INFO][3768] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:30:39,338][_internal.py:113][INFO][6760] - 127.0.0.1 - - [20/Aug/2020 23:30:39] "[31m[1mGET /v1/user/login HTTP/1.1[0m" 401 -
+[2020-08-20 23:31:36,029][base.py:940][DEBUG][12864] - Looking for jobs to run
+[2020-08-20 23:31:36,031][base.py:123][INFO][14688] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:31:36 CST)" (scheduled at 2020-08-20 23:31:36.027501+08:00)
+[2020-08-20 23:31:36,032][base.py:1020][DEBUG][12864] - Next wakeup is due at 2020-08-20 23:32:36.027501+08:00 (in 59.998211 seconds)
+[2020-08-20 23:31:36,033][base.py:144][INFO][14688] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:32:36 CST)" executed successfully
+[2020-08-20 23:31:54,325][base.py:440][INFO][968] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:31:54,327][base.py:881][INFO][968] - Added job "time_task" to job store "default"
+[2020-08-20 23:31:54,327][base.py:166][INFO][968] - Scheduler started
+[2020-08-20 23:31:54,327][base.py:940][DEBUG][9184] - Looking for jobs to run
+[2020-08-20 23:31:54,327][base.py:1020][DEBUG][9184] - Next wakeup is due at 2020-08-20 23:32:54.325291+08:00 (in 59.998016 seconds)
+[2020-08-20 23:31:54,363][_internal.py:113][INFO][968] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:31:58,195][_internal.py:113][INFO][13208] - 127.0.0.1 - - [20/Aug/2020 23:31:58] "[31m[1mGET /v1/user/login HTTP/1.1[0m" 401 -
+[2020-08-20 23:32:25,603][_internal.py:113][INFO][14772] - 127.0.0.1 - - [20/Aug/2020 23:32:25] "[33mGET /v1/user/get?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTU5NzkzNjMzNywiZXhwIjoxNTk3OTM5OTM3fQ.eyJhY2NvdW50IjoienhmIn0.0lqqq73sjNYTe215zGXkcNfEDpuhwbfOnQ3TeF3UCAFKw7eKNuHiFGeSwEnLoGJ-tezaRTIWTDT3gMxlrPIUEA HTTP/1.1[0m" 404 -
+[2020-08-20 23:32:54,326][base.py:940][DEBUG][9184] - Looking for jobs to run
+[2020-08-20 23:32:54,327][base.py:123][INFO][2900] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:32:54 CST)" (scheduled at 2020-08-20 23:32:54.325291+08:00)
+[2020-08-20 23:32:54,327][base.py:1020][DEBUG][9184] - Next wakeup is due at 2020-08-20 23:33:54.325291+08:00 (in 59.998963 seconds)
+[2020-08-20 23:32:54,328][base.py:144][INFO][2900] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:33:54 CST)" executed successfully
+[2020-08-20 23:33:54,328][base.py:940][DEBUG][9184] - Looking for jobs to run
+[2020-08-20 23:33:54,328][base.py:123][INFO][2900] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:33:54 CST)" (scheduled at 2020-08-20 23:33:54.325291+08:00)
+[2020-08-20 23:33:54,329][base.py:1020][DEBUG][9184] - Next wakeup is due at 2020-08-20 23:34:54.325291+08:00 (in 59.997046 seconds)
+[2020-08-20 23:33:54,329][base.py:144][INFO][2900] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:34:54 CST)" executed successfully
+[2020-08-20 23:34:54,327][base.py:940][DEBUG][9184] - Looking for jobs to run
+[2020-08-20 23:34:54,327][base.py:123][INFO][4328] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:34:54 CST)" (scheduled at 2020-08-20 23:34:54.325291+08:00)
+[2020-08-20 23:34:54,328][base.py:144][INFO][4328] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:34:54 CST)" executed successfully
+[2020-08-20 23:34:54,328][base.py:1020][DEBUG][9184] - Next wakeup is due at 2020-08-20 23:35:54.325291+08:00 (in 59.997653 seconds)
+[2020-08-20 23:35:54,328][base.py:940][DEBUG][9184] - Looking for jobs to run
+[2020-08-20 23:35:54,328][base.py:123][INFO][2900] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:35:54 CST)" (scheduled at 2020-08-20 23:35:54.325291+08:00)
+[2020-08-20 23:35:54,329][base.py:144][INFO][2900] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:35:54 CST)" executed successfully
+[2020-08-20 23:35:54,329][base.py:1020][DEBUG][9184] - Next wakeup is due at 2020-08-20 23:36:54.325291+08:00 (in 59.997056 seconds)
+[2020-08-20 23:36:00,230][_internal.py:113][INFO][8668] - 127.0.0.1 - - [20/Aug/2020 23:36:00] "[33mGET /v1/user/get HTTP/1.1[0m" 404 -
+[2020-08-20 23:36:52,865][base.py:440][INFO][3328] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:36:52,867][base.py:881][INFO][3328] - Added job "time_task" to job store "default"
+[2020-08-20 23:36:52,867][base.py:166][INFO][3328] - Scheduler started
+[2020-08-20 23:36:52,869][base.py:940][DEBUG][13728] - Looking for jobs to run
+[2020-08-20 23:36:52,870][base.py:1020][DEBUG][13728] - Next wakeup is due at 2020-08-20 23:37:52.864488+08:00 (in 59.994002 seconds)
+[2020-08-20 23:36:52,928][_internal.py:113][INFO][3328] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:37:49,914][app.py:1892][ERROR][9824] - Exception on /v1/user/login [GET]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_httpauth.py", line 163, in decorated
+    return f(*args, **kwargs)
+  File "D:\Poject\python\flask-restful\application\v1\controllers\userController.py", line 20, in get_user
+    user = User.objects()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\manager.py", line 37, in __get__
+    queryset = queryset_class(owner, owner._get_collection())
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\document.py", line 207, in _get_collection
+    db = cls._get_db()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\document.py", line 185, in _get_db
+    return get_db(cls._meta.get("db_alias", DEFAULT_CONNECTION_NAME))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\connection.py", line 356, in get_db
+    conn = get_connection(alias)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\connection.py", line 268, in get_connection
+    raise ConnectionFailure(msg)
+mongoengine.connection.ConnectionFailure: Connection with alias "userInfo" has not been defined
+[2020-08-20 23:37:49,926][_internal.py:113][INFO][9824] - 127.0.0.1 - - [20/Aug/2020 23:37:49] "[35m[1mGET /v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-20 23:37:52,877][base.py:940][DEBUG][13728] - Looking for jobs to run
+[2020-08-20 23:37:52,887][base.py:123][INFO][1520] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:38:52 CST)" (scheduled at 2020-08-20 23:37:52.864488+08:00)
+[2020-08-20 23:37:52,890][base.py:1020][DEBUG][13728] - Next wakeup is due at 2020-08-20 23:38:52.864488+08:00 (in 59.986366 seconds)
+[2020-08-20 23:37:52,893][base.py:144][INFO][1520] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:38:52 CST)" executed successfully
+[2020-08-20 23:38:52,889][base.py:940][DEBUG][13728] - Looking for jobs to run
+[2020-08-20 23:38:52,892][base.py:123][INFO][1520] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:38:52 CST)" (scheduled at 2020-08-20 23:38:52.864488+08:00)
+[2020-08-20 23:38:52,895][base.py:144][INFO][1520] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:38:52 CST)" executed successfully
+[2020-08-20 23:38:52,897][base.py:1020][DEBUG][13728] - Next wakeup is due at 2020-08-20 23:39:52.864488+08:00 (in 59.974390 seconds)
+[2020-08-20 23:39:10,596][base.py:440][INFO][2188] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:39:10,597][base.py:881][INFO][2188] - Added job "time_task" to job store "default"
+[2020-08-20 23:39:10,597][base.py:166][INFO][2188] - Scheduler started
+[2020-08-20 23:39:10,597][base.py:940][DEBUG][10652] - Looking for jobs to run
+[2020-08-20 23:39:10,598][base.py:1020][DEBUG][10652] - Next wakeup is due at 2020-08-20 23:40:10.596294+08:00 (in 59.998001 seconds)
+[2020-08-20 23:39:10,630][_internal.py:113][INFO][2188] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:40:10,597][base.py:940][DEBUG][10652] - Looking for jobs to run
+[2020-08-20 23:40:10,598][base.py:123][INFO][11980] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:40:10 CST)" (scheduled at 2020-08-20 23:40:10.596294+08:00)
+[2020-08-20 23:40:10,599][base.py:1020][DEBUG][10652] - Next wakeup is due at 2020-08-20 23:41:10.596294+08:00 (in 59.998375 seconds)
+[2020-08-20 23:40:10,600][base.py:144][INFO][11980] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:41:10 CST)" executed successfully
+[2020-08-20 23:41:10,600][base.py:940][DEBUG][10652] - Looking for jobs to run
+[2020-08-20 23:41:10,600][base.py:123][INFO][11980] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:41:10 CST)" (scheduled at 2020-08-20 23:41:10.596294+08:00)
+[2020-08-20 23:41:10,601][base.py:144][INFO][11980] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:41:10 CST)" executed successfully
+[2020-08-20 23:41:10,601][base.py:1020][DEBUG][10652] - Next wakeup is due at 2020-08-20 23:42:10.596294+08:00 (in 59.995430 seconds)
+[2020-08-20 23:42:10,598][base.py:940][DEBUG][10652] - Looking for jobs to run
+[2020-08-20 23:42:10,598][base.py:123][INFO][4680] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:42:10 CST)" (scheduled at 2020-08-20 23:42:10.596294+08:00)
+[2020-08-20 23:42:10,598][base.py:144][INFO][4680] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:42:10 CST)" executed successfully
+[2020-08-20 23:42:10,599][base.py:1020][DEBUG][10652] - Next wakeup is due at 2020-08-20 23:43:10.596294+08:00 (in 59.997996 seconds)
+[2020-08-20 23:42:12,766][_internal.py:113][INFO][11856] - 127.0.0.1 - - [20/Aug/2020 23:42:12] "[37mGET /v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-20 23:43:10,597][base.py:940][DEBUG][10652] - Looking for jobs to run
+[2020-08-20 23:43:10,598][base.py:123][INFO][11980] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:43:10 CST)" (scheduled at 2020-08-20 23:43:10.596294+08:00)
+[2020-08-20 23:43:10,599][base.py:144][INFO][11980] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:43:10 CST)" executed successfully
+[2020-08-20 23:43:10,600][base.py:1020][DEBUG][10652] - Next wakeup is due at 2020-08-20 23:44:10.596294+08:00 (in 59.998731 seconds)
+[2020-08-20 23:44:10,600][base.py:940][DEBUG][10652] - Looking for jobs to run
+[2020-08-20 23:44:10,600][base.py:123][INFO][4680] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:44:10 CST)" (scheduled at 2020-08-20 23:44:10.596294+08:00)
+[2020-08-20 23:44:10,600][base.py:1020][DEBUG][10652] - Next wakeup is due at 2020-08-20 23:45:10.596294+08:00 (in 59.995705 seconds)
+[2020-08-20 23:44:10,601][base.py:144][INFO][4680] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:45:10 CST)" executed successfully
+[2020-08-20 23:45:10,598][base.py:940][DEBUG][10652] - Looking for jobs to run
+[2020-08-20 23:45:10,598][base.py:123][INFO][7320] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:45:10 CST)" (scheduled at 2020-08-20 23:45:10.596294+08:00)
+[2020-08-20 23:45:10,599][base.py:1020][DEBUG][10652] - Next wakeup is due at 2020-08-20 23:46:10.596294+08:00 (in 59.997754 seconds)
+[2020-08-20 23:45:10,599][base.py:144][INFO][7320] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:46:10 CST)" executed successfully
+[2020-08-20 23:45:16,408][base.py:440][INFO][10904] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:45:16,409][base.py:881][INFO][10904] - Added job "time_task" to job store "default"
+[2020-08-20 23:45:16,409][base.py:166][INFO][10904] - Scheduler started
+[2020-08-20 23:45:16,410][base.py:940][DEBUG][10552] - Looking for jobs to run
+[2020-08-20 23:45:16,410][base.py:1020][DEBUG][10552] - Next wakeup is due at 2020-08-20 23:46:16.408616+08:00 (in 59.998015 seconds)
+[2020-08-20 23:45:16,444][_internal.py:113][INFO][10904] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:45:32,917][_internal.py:113][INFO][9864] - 127.0.0.1 - - [20/Aug/2020 23:45:32] "[37mGET /v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-20 23:46:16,356][_internal.py:113][INFO][13904] - 127.0.0.1 - - [20/Aug/2020 23:46:16] "[31m[1mGET /v1/user/login HTTP/1.1[0m" 401 -
+[2020-08-20 23:46:16,410][base.py:940][DEBUG][10552] - Looking for jobs to run
+[2020-08-20 23:46:16,410][base.py:123][INFO][5044] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:46:16 CST)" (scheduled at 2020-08-20 23:46:16.408616+08:00)
+[2020-08-20 23:46:16,410][base.py:1020][DEBUG][10552] - Next wakeup is due at 2020-08-20 23:47:16.408616+08:00 (in 59.998108 seconds)
+[2020-08-20 23:46:16,411][base.py:144][INFO][5044] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:47:16 CST)" executed successfully
+[2020-08-20 23:46:25,566][_internal.py:113][INFO][10704] - 127.0.0.1 - - [20/Aug/2020 23:46:25] "[37mGET /v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-20 23:49:07,859][base.py:440][INFO][9988] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:49:07,860][base.py:881][INFO][9988] - Added job "time_task" to job store "default"
+[2020-08-20 23:49:07,860][base.py:166][INFO][9988] - Scheduler started
+[2020-08-20 23:49:07,861][base.py:940][DEBUG][13520] - Looking for jobs to run
+[2020-08-20 23:49:07,861][base.py:1020][DEBUG][13520] - Next wakeup is due at 2020-08-20 23:50:07.859237+08:00 (in 59.998000 seconds)
+[2020-08-20 23:49:07,904][_internal.py:113][INFO][9988] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:49:10,531][_internal.py:113][INFO][2928] - 127.0.0.1 - - [20/Aug/2020 23:49:10] "[37mGET /v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-20 23:50:07,859][base.py:940][DEBUG][13520] - Looking for jobs to run
+[2020-08-20 23:50:07,860][base.py:123][INFO][8716] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:50:07 CST)" (scheduled at 2020-08-20 23:50:07.859237+08:00)
+[2020-08-20 23:50:07,861][base.py:1020][DEBUG][13520] - Next wakeup is due at 2020-08-20 23:51:07.859237+08:00 (in 59.999449 seconds)
+[2020-08-20 23:50:07,861][base.py:144][INFO][8716] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:51:07 CST)" executed successfully
+[2020-08-20 23:51:07,863][base.py:940][DEBUG][13520] - Looking for jobs to run
+[2020-08-20 23:51:07,863][base.py:123][INFO][8716] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:51:07 CST)" (scheduled at 2020-08-20 23:51:07.859237+08:00)
+[2020-08-20 23:51:07,863][base.py:1020][DEBUG][13520] - Next wakeup is due at 2020-08-20 23:52:07.859237+08:00 (in 59.996147 seconds)
+[2020-08-20 23:51:07,864][base.py:144][INFO][8716] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:52:07 CST)" executed successfully
+[2020-08-20 23:51:38,976][base.py:440][INFO][11872] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:51:38,977][base.py:881][INFO][11872] - Added job "time_task" to job store "default"
+[2020-08-20 23:51:38,977][base.py:166][INFO][11872] - Scheduler started
+[2020-08-20 23:51:38,977][base.py:940][DEBUG][2076] - Looking for jobs to run
+[2020-08-20 23:51:38,978][base.py:1020][DEBUG][2076] - Next wakeup is due at 2020-08-20 23:52:38.976076+08:00 (in 59.998002 seconds)
+[2020-08-20 23:51:39,013][_internal.py:113][INFO][11872] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:51:44,372][app.py:1892][ERROR][4868] - Exception on /v1/user/login [GET]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_httpauth.py", line 219, in authenticate
+    return self.verify_password_callback(username, client_password)
+  File "D:\Poject\python\flask-restful\application\base\token_auth.py", line 27, in verify_token
+    user=User.objects(account=UserTokenInfo.account).first()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\manager.py", line 37, in __get__
+    queryset = queryset_class(owner, owner._get_collection())
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\document.py", line 207, in _get_collection
+    db = cls._get_db()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\document.py", line 185, in _get_db
+    return get_db(cls._meta.get("db_alias", DEFAULT_CONNECTION_NAME))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\connection.py", line 356, in get_db
+    conn = get_connection(alias)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\connection.py", line 268, in get_connection
+    raise ConnectionFailure(msg)
+mongoengine.connection.ConnectionFailure: Connection with alias "userInfo" has not been defined
+[2020-08-20 23:51:44,378][_internal.py:113][INFO][4868] - 127.0.0.1 - - [20/Aug/2020 23:51:44] "[35m[1mGET /v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-20 23:52:38,977][base.py:940][DEBUG][2076] - Looking for jobs to run
+[2020-08-20 23:52:38,978][base.py:123][INFO][5012] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:52:38 CST)" (scheduled at 2020-08-20 23:52:38.976076+08:00)
+[2020-08-20 23:52:38,978][base.py:1020][DEBUG][2076] - Next wakeup is due at 2020-08-20 23:53:38.976076+08:00 (in 59.998099 seconds)
+[2020-08-20 23:52:38,979][base.py:144][INFO][5012] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:53:38 CST)" executed successfully
+[2020-08-20 23:52:51,460][base.py:440][INFO][6604] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-20 23:52:51,461][base.py:881][INFO][6604] - Added job "time_task" to job store "default"
+[2020-08-20 23:52:51,461][base.py:166][INFO][6604] - Scheduler started
+[2020-08-20 23:52:51,461][base.py:940][DEBUG][4680] - Looking for jobs to run
+[2020-08-20 23:52:51,461][base.py:1020][DEBUG][4680] - Next wakeup is due at 2020-08-20 23:53:51.460686+08:00 (in 59.999001 seconds)
+[2020-08-20 23:52:51,495][_internal.py:113][INFO][6604] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-20 23:53:51,462][base.py:940][DEBUG][4680] - Looking for jobs to run
+[2020-08-20 23:53:51,464][base.py:123][INFO][4580] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:53:51 CST)" (scheduled at 2020-08-20 23:53:51.460686+08:00)
+[2020-08-20 23:53:51,465][base.py:1020][DEBUG][4680] - Next wakeup is due at 2020-08-20 23:54:51.460686+08:00 (in 59.997949 seconds)
+[2020-08-20 23:53:51,465][base.py:144][INFO][4580] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:54:51 CST)" executed successfully
+[2020-08-20 23:54:51,465][base.py:940][DEBUG][4680] - Looking for jobs to run
+[2020-08-20 23:54:51,466][base.py:123][INFO][4580] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:54:51 CST)" (scheduled at 2020-08-20 23:54:51.460686+08:00)
+[2020-08-20 23:54:51,466][base.py:144][INFO][4580] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-20 23:54:51 CST)" executed successfully
+[2020-08-20 23:54:51,467][base.py:1020][DEBUG][4680] - Next wakeup is due at 2020-08-20 23:55:51.460686+08:00 (in 59.995250 seconds)

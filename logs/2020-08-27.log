@@ -1,0 +1,269 @@
+[2020-08-27 08:42:08,358][base.py:440][INFO][11668] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-27 08:42:08,358][base.py:881][INFO][11668] - Added job "time_task" to job store "default"
+[2020-08-27 08:42:08,358][base.py:166][INFO][11668] - Scheduler started
+[2020-08-27 08:42:08,359][base.py:940][DEBUG][6960] - Looking for jobs to run
+[2020-08-27 08:42:08,359][base.py:1020][DEBUG][6960] - Next wakeup is due at 2020-08-27 08:43:08.358894+08:00 (in 59.999003 seconds)
+[2020-08-27 08:43:42,863][base.py:440][INFO][14552] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-27 08:43:42,864][base.py:881][INFO][14552] - Added job "time_task" to job store "default"
+[2020-08-27 08:43:42,864][base.py:166][INFO][14552] - Scheduler started
+[2020-08-27 08:43:42,864][base.py:940][DEBUG][3752] - Looking for jobs to run
+[2020-08-27 08:43:42,865][base.py:1020][DEBUG][3752] - Next wakeup is due at 2020-08-27 08:44:42.863247+08:00 (in 59.998012 seconds)
+[2020-08-27 08:43:42,925][_internal.py:113][INFO][14552] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 08:45:03,633][base.py:440][INFO][9296] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-27 08:45:03,634][base.py:881][INFO][9296] - Added job "time_task" to job store "default"
+[2020-08-27 08:45:03,634][base.py:166][INFO][9296] - Scheduler started
+[2020-08-27 08:45:03,635][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:45:03,635][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:46:03.633281+08:00 (in 59.998033 seconds)
+[2020-08-27 08:45:03,674][_internal.py:113][INFO][9296] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 08:45:12,970][_internal.py:113][INFO][1032] - 127.0.0.1 - - [27/Aug/2020 08:45:12] "[33mPOST /user/test HTTP/1.1[0m" 404 -
+[2020-08-27 08:45:26,663][_internal.py:113][INFO][2180] - 127.0.0.1 - - [27/Aug/2020 08:45:26] "[31m[1mGET /web_v1/user/test HTTP/1.1[0m" 401 -
+[2020-08-27 08:46:03,635][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:46:03,635][base.py:123][INFO][9148] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:46:03 CST)" (scheduled at 2020-08-27 08:46:03.633281+08:00)
+[2020-08-27 08:46:03,635][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:47:03.633281+08:00 (in 59.998275 seconds)
+[2020-08-27 08:46:03,635][base.py:144][INFO][9148] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:47:03 CST)" executed successfully
+[2020-08-27 08:46:15,768][userService.py:20][INFO][4808] - userService - login - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x0000028A2B2909B0>
+[2020-08-27 08:46:15,814][_internal.py:113][INFO][4808] - 127.0.0.1 - - [27/Aug/2020 08:46:15] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-27 08:46:33,649][userService.py:47][INFO][5792] - userService - register - Parameter:<application.web_v1.validators.forms.UserForm object at 0x0000028A2B290128>
+[2020-08-27 08:46:33,892][_internal.py:113][INFO][5792] - 127.0.0.1 - - [27/Aug/2020 08:46:33] "[37mPOST /web_v1/user/register HTTP/1.1[0m" 200 -
+[2020-08-27 08:47:03,635][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:47:03,635][base.py:123][INFO][9148] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:47:03 CST)" (scheduled at 2020-08-27 08:47:03.633281+08:00)
+[2020-08-27 08:47:03,636][base.py:144][INFO][9148] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:47:03 CST)" executed successfully
+[2020-08-27 08:47:03,637][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:48:03.633281+08:00 (in 59.997792 seconds)
+[2020-08-27 08:48:03,635][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:48:03,635][base.py:123][INFO][15504] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:48:03 CST)" (scheduled at 2020-08-27 08:48:03.633281+08:00)
+[2020-08-27 08:48:03,636][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:49:03.633281+08:00 (in 59.997294 seconds)
+[2020-08-27 08:48:03,636][base.py:144][INFO][15504] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:49:03 CST)" executed successfully
+[2020-08-27 08:49:03,635][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:49:03,635][base.py:123][INFO][9148] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:49:03 CST)" (scheduled at 2020-08-27 08:49:03.633281+08:00)
+[2020-08-27 08:49:03,635][base.py:144][INFO][9148] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:49:03 CST)" executed successfully
+[2020-08-27 08:49:03,636][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:50:03.633281+08:00 (in 59.997728 seconds)
+[2020-08-27 08:49:22,392][_internal.py:113][INFO][14432] - 127.0.0.1 - - [27/Aug/2020 08:49:22] "[31m[1mGET /web_v1/user/login HTTP/1.1[0m" 405 -
+[2020-08-27 08:49:31,806][userService.py:20][INFO][13568] - userService - login - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x0000028A2B2E75C0>
+[2020-08-27 08:49:32,002][_internal.py:113][INFO][13568] - 127.0.0.1 - - [27/Aug/2020 08:49:32] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-27 08:49:54,511][_internal.py:113][INFO][14376] - 127.0.0.1 - - [27/Aug/2020 08:49:54] "[31m[1mPOST /web_v1/user/test HTTP/1.1[0m" 405 -
+[2020-08-27 08:49:59,223][_internal.py:113][INFO][9496] - 127.0.0.1 - - [27/Aug/2020 08:49:59] "[37mGET /web_v1/user/test HTTP/1.1[0m" 200 -
+[2020-08-27 08:50:03,635][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:50:03,635][base.py:123][INFO][12004] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:50:03 CST)" (scheduled at 2020-08-27 08:50:03.633281+08:00)
+[2020-08-27 08:50:03,635][base.py:144][INFO][12004] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:50:03 CST)" executed successfully
+[2020-08-27 08:50:03,635][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:51:03.633281+08:00 (in 59.998140 seconds)
+[2020-08-27 08:50:10,008][userService.py:39][INFO][16360] - userService - logout - Parameter:
+[2020-08-27 08:50:10,008][_internal.py:113][INFO][16360] - 127.0.0.1 - - [27/Aug/2020 08:50:10] "[37mGET /web_v1/user/logout HTTP/1.1[0m" 200 -
+[2020-08-27 08:50:14,707][_internal.py:113][INFO][15676] - 127.0.0.1 - - [27/Aug/2020 08:50:14] "[31m[1mGET /web_v1/user/test HTTP/1.1[0m" 401 -
+[2020-08-27 08:51:03,635][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:51:03,635][base.py:123][INFO][15504] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:51:03 CST)" (scheduled at 2020-08-27 08:51:03.633281+08:00)
+[2020-08-27 08:51:03,635][base.py:144][INFO][15504] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:51:03 CST)" executed successfully
+[2020-08-27 08:51:03,636][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:52:03.633281+08:00 (in 59.997576 seconds)
+[2020-08-27 08:52:03,635][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:52:03,635][base.py:123][INFO][7708] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:52:03 CST)" (scheduled at 2020-08-27 08:52:03.633281+08:00)
+[2020-08-27 08:52:03,636][base.py:144][INFO][7708] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:52:03 CST)" executed successfully
+[2020-08-27 08:52:03,636][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:53:03.633281+08:00 (in 59.998005 seconds)
+[2020-08-27 08:53:03,635][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:53:03,635][base.py:123][INFO][9148] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:53:03 CST)" (scheduled at 2020-08-27 08:53:03.633281+08:00)
+[2020-08-27 08:53:03,635][base.py:144][INFO][9148] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:53:03 CST)" executed successfully
+[2020-08-27 08:53:03,636][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:54:03.633281+08:00 (in 59.997985 seconds)
+[2020-08-27 08:54:03,648][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:54:03,648][base.py:123][INFO][16348] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:54:03 CST)" (scheduled at 2020-08-27 08:54:03.633281+08:00)
+[2020-08-27 08:54:03,648][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:55:03.633281+08:00 (in 59.984541 seconds)
+[2020-08-27 08:54:03,648][base.py:144][INFO][16348] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:55:03 CST)" executed successfully
+[2020-08-27 08:55:03,635][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:55:03,635][base.py:123][INFO][12004] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:55:03 CST)" (scheduled at 2020-08-27 08:55:03.633281+08:00)
+[2020-08-27 08:55:03,636][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:56:03.633281+08:00 (in 59.997976 seconds)
+[2020-08-27 08:55:03,636][base.py:144][INFO][12004] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:56:03 CST)" executed successfully
+[2020-08-27 08:55:53,008][userService.py:20][INFO][13456] - userService - login - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x0000028A2B2BE7F0>
+[2020-08-27 08:55:53,196][_internal.py:113][INFO][13456] - 127.0.0.1 - - [27/Aug/2020 08:55:53] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-27 08:56:03,648][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:56:03,648][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:57:03.633281+08:00 (in 59.984510 seconds)
+[2020-08-27 08:56:03,648][base.py:123][INFO][15504] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:57:03 CST)" (scheduled at 2020-08-27 08:56:03.633281+08:00)
+[2020-08-27 08:56:03,648][base.py:144][INFO][15504] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:57:03 CST)" executed successfully
+[2020-08-27 08:56:21,493][base.py:20][ERROR][14544] - {'password': ['This field is required.']}
+[2020-08-27 08:56:21,493][_internal.py:113][INFO][14544] - 127.0.0.1 - - [27/Aug/2020 08:56:21] "[31m[1mPOST /web_v1/user/login HTTP/1.1[0m" 400 -
+[2020-08-27 08:56:32,896][userService.py:20][INFO][15436] - userService - login - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x0000028A2B2BEB00>
+[2020-08-27 08:56:33,086][_internal.py:113][INFO][15436] - 127.0.0.1 - - [27/Aug/2020 08:56:33] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-27 08:57:03,634][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:57:03,634][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:58:03.633281+08:00 (in 59.998529 seconds)
+[2020-08-27 08:57:03,634][base.py:123][INFO][2516] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:58:03 CST)" (scheduled at 2020-08-27 08:57:03.633281+08:00)
+[2020-08-27 08:57:03,634][base.py:144][INFO][2516] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:58:03 CST)" executed successfully
+[2020-08-27 08:58:03,634][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:58:03,634][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 08:59:03.633281+08:00 (in 59.998878 seconds)
+[2020-08-27 08:58:03,634][base.py:123][INFO][9880] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:59:03 CST)" (scheduled at 2020-08-27 08:58:03.633281+08:00)
+[2020-08-27 08:58:03,634][base.py:144][INFO][9880] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 08:59:03 CST)" executed successfully
+[2020-08-27 08:59:03,633][base.py:940][DEBUG][15828] - Looking for jobs to run
+[2020-08-27 08:59:03,633][base.py:1020][DEBUG][15828] - Next wakeup is due at 2020-08-27 09:00:03.633281+08:00 (in 59.999488 seconds)
+[2020-08-27 08:59:03,633][base.py:123][INFO][7708] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:00:03 CST)" (scheduled at 2020-08-27 08:59:03.633281+08:00)
+[2020-08-27 08:59:03,633][base.py:144][INFO][7708] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:00:03 CST)" executed successfully
+[2020-08-27 09:00:50,419][base.py:440][INFO][9780] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-27 09:00:50,420][base.py:881][INFO][9780] - Added job "time_task" to job store "default"
+[2020-08-27 09:00:50,420][base.py:166][INFO][9780] - Scheduler started
+[2020-08-27 09:00:50,420][base.py:940][DEBUG][5660] - Looking for jobs to run
+[2020-08-27 09:00:50,420][base.py:1020][DEBUG][5660] - Next wakeup is due at 2020-08-27 09:01:50.419358+08:00 (in 59.999003 seconds)
+[2020-08-27 09:00:50,469][_internal.py:113][INFO][9780] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-08-27 09:01:50,421][base.py:940][DEBUG][5660] - Looking for jobs to run
+[2020-08-27 09:01:50,421][base.py:123][INFO][9268] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:01:50 CST)" (scheduled at 2020-08-27 09:01:50.419358+08:00)
+[2020-08-27 09:01:50,422][base.py:1020][DEBUG][5660] - Next wakeup is due at 2020-08-27 09:02:50.419358+08:00 (in 59.997789 seconds)
+[2020-08-27 09:01:50,422][base.py:144][INFO][9268] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:02:50 CST)" executed successfully
+[2020-08-27 09:02:50,421][base.py:940][DEBUG][5660] - Looking for jobs to run
+[2020-08-27 09:02:50,421][base.py:123][INFO][9268] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:02:50 CST)" (scheduled at 2020-08-27 09:02:50.419358+08:00)
+[2020-08-27 09:02:50,422][base.py:1020][DEBUG][5660] - Next wakeup is due at 2020-08-27 09:03:50.419358+08:00 (in 59.998042 seconds)
+[2020-08-27 09:02:50,422][base.py:144][INFO][9268] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:03:50 CST)" executed successfully
+[2020-08-27 09:03:50,422][base.py:940][DEBUG][5660] - Looking for jobs to run
+[2020-08-27 09:03:50,422][base.py:123][INFO][16324] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:03:50 CST)" (scheduled at 2020-08-27 09:03:50.419358+08:00)
+[2020-08-27 09:03:50,422][base.py:144][INFO][16324] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:03:50 CST)" executed successfully
+[2020-08-27 09:03:50,422][base.py:1020][DEBUG][5660] - Next wakeup is due at 2020-08-27 09:04:50.419358+08:00 (in 59.996985 seconds)
+[2020-08-27 09:04:50,420][base.py:940][DEBUG][5660] - Looking for jobs to run
+[2020-08-27 09:04:50,420][base.py:123][INFO][9268] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:04:50 CST)" (scheduled at 2020-08-27 09:04:50.419358+08:00)
+[2020-08-27 09:04:50,420][base.py:1020][DEBUG][5660] - Next wakeup is due at 2020-08-27 09:05:50.419358+08:00 (in 59.999181 seconds)
+[2020-08-27 09:04:50,421][base.py:144][INFO][9268] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:05:50 CST)" executed successfully
+[2020-08-27 09:04:55,205][base.py:440][INFO][7724] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-27 09:04:55,206][base.py:881][INFO][7724] - Added job "time_task" to job store "default"
+[2020-08-27 09:04:55,206][base.py:166][INFO][7724] - Scheduler started
+[2020-08-27 09:04:55,206][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:04:55,207][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:05:55.205436+08:00 (in 59.998032 seconds)
+[2020-08-27 09:04:55,252][_internal.py:113][INFO][7724] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-08-27 09:05:55,206][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:05:55,206][base.py:123][INFO][14596] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:05:55 CST)" (scheduled at 2020-08-27 09:05:55.205436+08:00)
+[2020-08-27 09:05:55,206][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:06:55.205436+08:00 (in 59.998990 seconds)
+[2020-08-27 09:05:55,207][base.py:144][INFO][14596] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:06:55 CST)" executed successfully
+[2020-08-27 09:06:55,207][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:06:55,207][base.py:123][INFO][14596] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:06:55 CST)" (scheduled at 2020-08-27 09:06:55.205436+08:00)
+[2020-08-27 09:06:55,208][base.py:144][INFO][14596] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:06:55 CST)" executed successfully
+[2020-08-27 09:06:55,208][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:07:55.205436+08:00 (in 59.998396 seconds)
+[2020-08-27 09:07:55,208][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:07:55,208][base.py:123][INFO][14596] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:07:55 CST)" (scheduled at 2020-08-27 09:07:55.205436+08:00)
+[2020-08-27 09:07:55,208][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:08:55.205436+08:00 (in 59.997420 seconds)
+[2020-08-27 09:07:55,208][base.py:144][INFO][14596] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:08:55 CST)" executed successfully
+[2020-08-27 09:08:55,207][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:08:55,207][base.py:123][INFO][11776] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:08:55 CST)" (scheduled at 2020-08-27 09:08:55.205436+08:00)
+[2020-08-27 09:08:55,208][base.py:144][INFO][11776] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:08:55 CST)" executed successfully
+[2020-08-27 09:08:55,208][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:09:55.205436+08:00 (in 59.998178 seconds)
+[2020-08-27 09:09:55,207][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:09:55,207][base.py:123][INFO][5264] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:09:55 CST)" (scheduled at 2020-08-27 09:09:55.205436+08:00)
+[2020-08-27 09:09:55,208][base.py:144][INFO][5264] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:09:55 CST)" executed successfully
+[2020-08-27 09:09:55,208][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:10:55.205436+08:00 (in 59.998279 seconds)
+[2020-08-27 09:10:55,208][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:10:55,208][base.py:123][INFO][14596] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:10:55 CST)" (scheduled at 2020-08-27 09:10:55.205436+08:00)
+[2020-08-27 09:10:55,208][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:11:55.205436+08:00 (in 59.997410 seconds)
+[2020-08-27 09:10:55,208][base.py:144][INFO][14596] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:11:55 CST)" executed successfully
+[2020-08-27 09:11:34,806][_internal.py:113][INFO][7124] - 127.0.0.1 - - [27/Aug/2020 09:11:34] "[31m[1mGET /restful_v1/user/test HTTP/1.1[0m" 401 -
+[2020-08-27 09:11:47,567][baseForm.py:20][ERROR][14044] - {'secret': ['This field is required.']}
+[2020-08-27 09:11:47,567][_internal.py:113][INFO][14044] - 127.0.0.1 - - [27/Aug/2020 09:11:47] "[31m[1mGET /restful_v1/user/getToken HTTP/1.1[0m" 400 -
+[2020-08-27 09:11:55,207][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:11:55,207][base.py:123][INFO][15196] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:11:55 CST)" (scheduled at 2020-08-27 09:11:55.205436+08:00)
+[2020-08-27 09:11:55,207][base.py:144][INFO][15196] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:11:55 CST)" executed successfully
+[2020-08-27 09:11:55,207][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:12:55.205436+08:00 (in 59.997687 seconds)
+[2020-08-27 09:12:06,357][baseForm.py:20][ERROR][13412] - {'secret': ['This field is required.']}
+[2020-08-27 09:12:06,358][_internal.py:113][INFO][13412] - 127.0.0.1 - - [27/Aug/2020 09:12:06] "[31m[1mGET /restful_v1/user/getToken?sercet=1234 HTTP/1.1[0m" 400 -
+[2020-08-27 09:12:11,567][userService.py:11][INFO][2512] - getToken - 成功 - Parameter:<application.web_v1.validators.userForms.GetTokenForm object at 0x000001D2210E3BA8>
+[2020-08-27 09:12:11,590][_internal.py:113][INFO][2512] - 127.0.0.1 - - [27/Aug/2020 09:12:11] "[37mGET /restful_v1/user/getToken?secret=1234 HTTP/1.1[0m" 200 -
+[2020-08-27 09:12:55,207][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:12:55,207][base.py:123][INFO][11776] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:12:55 CST)" (scheduled at 2020-08-27 09:12:55.205436+08:00)
+[2020-08-27 09:12:55,207][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:13:55.205436+08:00 (in 59.998087 seconds)
+[2020-08-27 09:12:55,208][base.py:144][INFO][11776] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:13:55 CST)" executed successfully
+[2020-08-27 09:13:55,208][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:13:55,208][base.py:123][INFO][5264] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:13:55 CST)" (scheduled at 2020-08-27 09:13:55.205436+08:00)
+[2020-08-27 09:13:55,208][base.py:144][INFO][5264] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:13:55 CST)" executed successfully
+[2020-08-27 09:13:55,209][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:14:55.205436+08:00 (in 59.997109 seconds)
+[2020-08-27 09:14:55,207][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:14:55,207][base.py:123][INFO][13664] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:14:55 CST)" (scheduled at 2020-08-27 09:14:55.205436+08:00)
+[2020-08-27 09:14:55,208][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:15:55.205436+08:00 (in 59.997931 seconds)
+[2020-08-27 09:14:55,208][base.py:144][INFO][13664] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:15:55 CST)" executed successfully
+[2020-08-27 09:15:55,206][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:15:55,206][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:16:55.205436+08:00 (in 59.998851 seconds)
+[2020-08-27 09:15:55,206][base.py:123][INFO][10112] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:16:55 CST)" (scheduled at 2020-08-27 09:15:55.205436+08:00)
+[2020-08-27 09:15:55,206][base.py:144][INFO][10112] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:16:55 CST)" executed successfully
+[2020-08-27 09:16:55,205][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:16:55,205][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:17:55.205436+08:00 (in 59.999523 seconds)
+[2020-08-27 09:16:55,205][base.py:123][INFO][14596] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:17:55 CST)" (scheduled at 2020-08-27 09:16:55.205436+08:00)
+[2020-08-27 09:16:55,205][base.py:144][INFO][14596] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:17:55 CST)" executed successfully
+[2020-08-27 09:17:55,206][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:17:55,206][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:18:55.205436+08:00 (in 59.999420 seconds)
+[2020-08-27 09:17:55,206][base.py:123][INFO][6444] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:18:55 CST)" (scheduled at 2020-08-27 09:17:55.205436+08:00)
+[2020-08-27 09:17:55,206][base.py:144][INFO][6444] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:18:55 CST)" executed successfully
+[2020-08-27 09:18:55,206][base.py:940][DEBUG][14560] - Looking for jobs to run
+[2020-08-27 09:18:55,206][base.py:1020][DEBUG][14560] - Next wakeup is due at 2020-08-27 09:19:55.205436+08:00 (in 59.998805 seconds)
+[2020-08-27 09:18:55,206][base.py:123][INFO][15196] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:19:55 CST)" (scheduled at 2020-08-27 09:18:55.205436+08:00)
+[2020-08-27 09:18:55,206][base.py:144][INFO][15196] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:19:55 CST)" executed successfully
+[2020-08-27 09:19:56,150][base.py:440][INFO][2432] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-27 09:19:56,150][base.py:881][INFO][2432] - Added job "time_task" to job store "default"
+[2020-08-27 09:19:56,150][base.py:166][INFO][2432] - Scheduler started
+[2020-08-27 09:19:56,151][base.py:940][DEBUG][10408] - Looking for jobs to run
+[2020-08-27 09:19:56,151][base.py:1020][DEBUG][10408] - Next wakeup is due at 2020-08-27 09:20:56.149455+08:00 (in 59.998006 seconds)
+[2020-08-27 09:19:56,196][_internal.py:113][INFO][2432] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-08-27 09:20:56,150][base.py:940][DEBUG][10408] - Looking for jobs to run
+[2020-08-27 09:20:56,150][base.py:123][INFO][15100] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:20:56 CST)" (scheduled at 2020-08-27 09:20:56.149455+08:00)
+[2020-08-27 09:20:56,151][base.py:1020][DEBUG][10408] - Next wakeup is due at 2020-08-27 09:21:56.149455+08:00 (in 59.998721 seconds)
+[2020-08-27 09:20:56,151][base.py:144][INFO][15100] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:21:56 CST)" executed successfully
+[2020-08-27 09:21:56,151][base.py:940][DEBUG][10408] - Looking for jobs to run
+[2020-08-27 09:21:56,151][base.py:123][INFO][15100] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:21:56 CST)" (scheduled at 2020-08-27 09:21:56.149455+08:00)
+[2020-08-27 09:21:56,151][base.py:144][INFO][15100] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:21:56 CST)" executed successfully
+[2020-08-27 09:21:56,152][base.py:1020][DEBUG][10408] - Next wakeup is due at 2020-08-27 09:22:56.149455+08:00 (in 59.998242 seconds)
+[2020-08-27 09:22:56,151][base.py:940][DEBUG][10408] - Looking for jobs to run
+[2020-08-27 09:22:56,151][base.py:123][INFO][15932] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:22:56 CST)" (scheduled at 2020-08-27 09:22:56.149455+08:00)
+[2020-08-27 09:22:56,152][base.py:1020][DEBUG][10408] - Next wakeup is due at 2020-08-27 09:23:56.149455+08:00 (in 59.997692 seconds)
+[2020-08-27 09:22:56,152][base.py:144][INFO][15932] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:23:56 CST)" executed successfully
+[2020-08-27 09:23:39,820][base.py:440][INFO][15740] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-27 09:23:39,821][base.py:881][INFO][15740] - Added job "time_task" to job store "default"
+[2020-08-27 09:23:39,821][base.py:166][INFO][15740] - Scheduler started
+[2020-08-27 09:23:39,821][base.py:940][DEBUG][15460] - Looking for jobs to run
+[2020-08-27 09:23:39,821][base.py:1020][DEBUG][15460] - Next wakeup is due at 2020-08-27 09:24:39.820108+08:00 (in 59.999002 seconds)
+[2020-08-27 09:23:39,863][_internal.py:113][INFO][15740] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-08-27 09:24:39,821][base.py:940][DEBUG][15460] - Looking for jobs to run
+[2020-08-27 09:24:39,821][base.py:123][INFO][1216] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:24:39 CST)" (scheduled at 2020-08-27 09:24:39.820108+08:00)
+[2020-08-27 09:24:39,822][base.py:144][INFO][1216] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:24:39 CST)" executed successfully
+[2020-08-27 09:24:39,822][base.py:1020][DEBUG][15460] - Next wakeup is due at 2020-08-27 09:25:39.820108+08:00 (in 59.998847 seconds)
+[2020-08-27 09:25:39,821][base.py:940][DEBUG][15460] - Looking for jobs to run
+[2020-08-27 09:25:39,821][base.py:123][INFO][1216] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:25:39 CST)" (scheduled at 2020-08-27 09:25:39.820108+08:00)
+[2020-08-27 09:25:39,821][base.py:144][INFO][1216] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:25:39 CST)" executed successfully
+[2020-08-27 09:25:39,822][base.py:1020][DEBUG][15460] - Next wakeup is due at 2020-08-27 09:26:39.820108+08:00 (in 59.998206 seconds)
+[2020-08-27 09:26:03,426][base.py:440][INFO][6180] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-27 09:26:03,427][base.py:881][INFO][6180] - Added job "time_task" to job store "default"
+[2020-08-27 09:26:03,427][base.py:166][INFO][6180] - Scheduler started
+[2020-08-27 09:26:03,428][base.py:940][DEBUG][1352] - Looking for jobs to run
+[2020-08-27 09:26:03,428][base.py:1020][DEBUG][1352] - Next wakeup is due at 2020-08-27 09:27:03.426204+08:00 (in 59.998036 seconds)
+[2020-08-27 09:26:03,469][_internal.py:113][INFO][6180] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-08-27 09:26:55,477][userService.py:47][INFO][6892] - userService - register - Parameter:<application.web_v1.validators.userForms.UserForm object at 0x000001AA747200F0>
+[2020-08-27 09:26:55,692][_internal.py:113][INFO][6892] - 127.0.0.1 - - [27/Aug/2020 09:26:55] "[37mPOST /web_v1/user/register HTTP/1.1[0m" 200 -
+[2020-08-27 09:27:03,427][base.py:940][DEBUG][1352] - Looking for jobs to run
+[2020-08-27 09:27:03,427][base.py:123][INFO][16220] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:27:03 CST)" (scheduled at 2020-08-27 09:27:03.426204+08:00)
+[2020-08-27 09:27:03,428][base.py:144][INFO][16220] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:27:03 CST)" executed successfully
+[2020-08-27 09:27:03,428][base.py:1020][DEBUG][1352] - Next wakeup is due at 2020-08-27 09:28:03.426204+08:00 (in 59.998307 seconds)
+[2020-08-27 09:28:03,428][base.py:940][DEBUG][1352] - Looking for jobs to run
+[2020-08-27 09:28:03,428][base.py:123][INFO][16220] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:28:03 CST)" (scheduled at 2020-08-27 09:28:03.426204+08:00)
+[2020-08-27 09:28:03,428][base.py:1020][DEBUG][1352] - Next wakeup is due at 2020-08-27 09:29:03.426204+08:00 (in 59.997856 seconds)
+[2020-08-27 09:28:03,429][base.py:144][INFO][16220] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-27 09:29:03 CST)" executed successfully
+[2020-08-27 09:28:27,049][base.py:440][INFO][13308] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-27 09:28:27,050][base.py:881][INFO][13308] - Added job "time_task" to job store "default"
+[2020-08-27 09:28:27,050][base.py:166][INFO][13308] - Scheduler started
+[2020-08-27 09:28:27,050][base.py:940][DEBUG][2436] - Looking for jobs to run
+[2020-08-27 09:28:27,051][base.py:1020][DEBUG][2436] - Next wakeup is due at 2020-08-27 09:29:27.049236+08:00 (in 59.998033 seconds)
+[2020-08-27 09:28:27,092][_internal.py:113][INFO][13308] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-08-27 09:29:08,987][_internal.py:113][INFO][15412] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-08-27 10:38:05,261][_internal.py:113][INFO][7152] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-08-27 10:40:59,982][userService.py:20][INFO][1592] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x000001F7FC001C50>
+[2020-08-27 10:41:00,097][_internal.py:113][INFO][1592] - 127.0.0.1 - - [27/Aug/2020 10:41:00] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-27 10:41:04,608][userService.py:20][INFO][16928] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x000001F7FC024470>
+[2020-08-27 10:41:04,713][_internal.py:113][INFO][16928] - 127.0.0.1 - - [27/Aug/2020 10:41:04] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-27 10:41:05,991][userService.py:20][INFO][12972] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x000001F7FC024C88>
+[2020-08-27 10:41:06,096][_internal.py:113][INFO][12972] - 127.0.0.1 - - [27/Aug/2020 10:41:06] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-27 11:17:36,347][baseForm.py:22][ERROR][13464] - {'account': ['This field is required.'], 'password': ['This field is required.']}
+[2020-08-27 11:17:36,349][_internal.py:113][INFO][13464] - 127.0.0.1 - - [27/Aug/2020 11:17:36] "[31m[1mPOST /web_v1/user/login HTTP/1.1[0m" 400 -
+[2020-08-27 11:17:50,449][userService.py:20][INFO][11700] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x000001F7FC04EA90>
+[2020-08-27 11:17:50,556][_internal.py:113][INFO][11700] - 127.0.0.1 - - [27/Aug/2020 11:17:50] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-27 11:18:03,010][_internal.py:113][INFO][17384] - 127.0.0.1 - - [27/Aug/2020 11:18:03] "[31m[1mPOST /web_v1/user/test HTTP/1.1[0m" 405 -
+[2020-08-27 11:18:05,114][_internal.py:113][INFO][8444] - 127.0.0.1 - - [27/Aug/2020 11:18:05] "[37mGET /web_v1/user/test HTTP/1.1[0m" 200 -
+[2020-08-27 11:39:56,737][userService.py:20][INFO][15836] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x000001F7FC870208>
+[2020-08-27 11:39:56,841][_internal.py:113][INFO][15836] - 127.0.0.1 - - [27/Aug/2020 11:39:56] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-27 11:55:27,842][_internal.py:113][INFO][16856] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-08-27 11:55:37,484][userService.py:20][INFO][16500] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x0000017A9E2E3E10>
+[2020-08-27 11:55:37,610][_internal.py:113][INFO][16500] - 127.0.0.1 - - [27/Aug/2020 11:55:37] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-27 11:55:51,826][userService.py:71][INFO][11304] - getToken - getSecret - Parameter:5f470bdf0bc5f215da3edbd9
+[2020-08-27 11:55:51,827][_internal.py:113][INFO][11304] - 127.0.0.1 - - [27/Aug/2020 11:55:51] "[37mGET /web_v1/user/getSecret HTTP/1.1[0m" 200 -
+[2020-08-27 11:56:59,497][baseForm.py:22][ERROR][13956] - {'secret': ['This field is required.']}
+[2020-08-27 11:56:59,503][_internal.py:113][INFO][13956] - 127.0.0.1 - - [27/Aug/2020 11:56:59] "[31m[1mGET /restful_v1/user/getToken?sercet=.eJwlzjsOwjAMANC7ZGbwJ25sLlPFsS1YW5gQd6cSF3h6n7bXkeej3V_HO29tf0a7N-pVtcHmEepl2LPG1DWXJnViGIicNsxZlk9RgETNIKpp3TksLGuVB1XUJhyXgGowN8KpWqJiYo7sqygEaQAsJRoGisHcrsj7zOO_keoDPAp8SRFKTM7wsPb9AbFkNpE.X0cuuQ.xZpWKVEJtVOiv_Ang3umDmgtgHA HTTP/1.1[0m" 400 -
+[2020-08-27 11:57:27,800][userService.py:11][INFO][15952] - getToken - 成功 - Parameter:<application.restful_v1.validators.userForms.GetTokenForm object at 0x0000017A9E329828>
+[2020-08-27 11:57:27,802][_internal.py:113][INFO][15952] - 127.0.0.1 - - [27/Aug/2020 11:57:27] "[37mGET /restful_v1/user/getToken?secret=.eJwlzjsOwjAMANC7ZGbwJ25sLlPFsS1YW5gQd6cSF3h6n7bXkeej3V_HO29tf0a7N-pVtcHmEepl2LPG1DWXJnViGIicNsxZlk9RgETNIKpp3TksLGuVB1XUJhyXgGowN8KpWqJiYo7sqygEaQAsJRoGisHcrsj7zOO_keoDPAp8SRFKTM7wsPb9AbFkNpE.X0cuuQ.xZpWKVEJtVOiv_Ang3umDmgtgHA HTTP/1.1[0m" 200 -
+[2020-08-27 11:58:09,916][userService.py:11][INFO][7596] - getToken - 成功 - Parameter:<application.restful_v1.validators.userForms.GetTokenForm object at 0x0000017A9E3297B8>
+[2020-08-27 11:58:09,918][_internal.py:113][INFO][7596] - 127.0.0.1 - - [27/Aug/2020 11:58:09] "[37mGET /restful_v1/user/getToken?secret=pbkdf2:sha256:150000$gBY0jzQu$8f89c0126e3a2e0af61edde48b563fd50914cedd4d4ddd561a04a2a025b0303d HTTP/1.1[0m" 200 -
+[2020-08-27 11:58:36,961][_internal.py:113][INFO][2824] - 127.0.0.1 - - [27/Aug/2020 11:58:36] "[31m[1mGET /restful_v1/user/test HTTP/1.1[0m" 401 -
+[2020-08-27 12:00:37,364][userService.py:11][INFO][16668] - getToken - 成功 - Parameter:<application.restful_v1.validators.userForms.GetTokenForm object at 0x0000017A9EB532B0>
+[2020-08-27 12:00:37,367][_internal.py:113][INFO][16668] - 127.0.0.1 - - [27/Aug/2020 12:00:37] "[37mGET /restful_v1/user/getToken?secret=pbkdf2:sha256:150000$gBY0jzQu$8f89c0126e3a2e0af61edde48b563fd50914cedd4d4ddd561a04a2a025b0303d HTTP/1.1[0m" 200 -
+[2020-08-27 12:01:07,430][_internal.py:113][INFO][5012] - 127.0.0.1 - - [27/Aug/2020 12:01:07] "[37mGET /restful_v1/user/test HTTP/1.1[0m" 200 -

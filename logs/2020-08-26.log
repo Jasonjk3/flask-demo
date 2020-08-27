@@ -1,0 +1,954 @@
+[2020-08-26 21:41:37,997][base.py:440][INFO][6700] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 21:41:38,003][base.py:881][INFO][6700] - Added job "time_task" to job store "default"
+[2020-08-26 21:41:38,003][base.py:166][INFO][6700] - Scheduler started
+[2020-08-26 21:41:38,004][base.py:940][DEBUG][6600] - Looking for jobs to run
+[2020-08-26 21:41:38,004][base.py:1020][DEBUG][6600] - Next wakeup is due at 2020-08-26 21:42:37.997873+08:00 (in 59.993004 seconds)
+[2020-08-26 21:42:43,036][base.py:440][INFO][7016] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 21:42:43,037][base.py:881][INFO][7016] - Added job "time_task" to job store "default"
+[2020-08-26 21:42:43,043][base.py:166][INFO][7016] - Scheduler started
+[2020-08-26 21:42:43,043][base.py:940][DEBUG][5716] - Looking for jobs to run
+[2020-08-26 21:42:43,043][base.py:1020][DEBUG][5716] - Next wakeup is due at 2020-08-26 21:43:43.035290+08:00 (in 59.992005 seconds)
+[2020-08-26 21:43:15,293][base.py:440][INFO][14204] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 21:43:15,294][base.py:881][INFO][14204] - Added job "time_task" to job store "default"
+[2020-08-26 21:43:15,294][base.py:166][INFO][14204] - Scheduler started
+[2020-08-26 21:43:15,295][base.py:940][DEBUG][2972] - Looking for jobs to run
+[2020-08-26 21:43:15,295][base.py:1020][DEBUG][2972] - Next wakeup is due at 2020-08-26 21:44:15.293648+08:00 (in 59.998000 seconds)
+[2020-08-26 21:43:29,642][base.py:440][INFO][2256] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 21:43:29,644][base.py:881][INFO][2256] - Added job "time_task" to job store "default"
+[2020-08-26 21:43:29,645][base.py:166][INFO][2256] - Scheduler started
+[2020-08-26 21:43:29,645][base.py:940][DEBUG][7364] - Looking for jobs to run
+[2020-08-26 21:43:29,645][base.py:1020][DEBUG][7364] - Next wakeup is due at 2020-08-26 21:44:29.642357+08:00 (in 59.997001 seconds)
+[2020-08-26 21:44:04,736][base.py:440][INFO][13356] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 21:44:04,737][base.py:881][INFO][13356] - Added job "time_task" to job store "default"
+[2020-08-26 21:44:04,738][base.py:166][INFO][13356] - Scheduler started
+[2020-08-26 21:44:04,738][base.py:940][DEBUG][352] - Looking for jobs to run
+[2020-08-26 21:44:04,738][base.py:1020][DEBUG][352] - Next wakeup is due at 2020-08-26 21:45:04.736080+08:00 (in 59.998001 seconds)
+[2020-08-26 21:44:25,681][base.py:440][INFO][6504] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 21:44:25,683][base.py:881][INFO][6504] - Added job "time_task" to job store "default"
+[2020-08-26 21:44:25,683][base.py:166][INFO][6504] - Scheduler started
+[2020-08-26 21:44:25,683][base.py:940][DEBUG][460] - Looking for jobs to run
+[2020-08-26 21:44:25,684][base.py:1020][DEBUG][460] - Next wakeup is due at 2020-08-26 21:45:25.681973+08:00 (in 59.997001 seconds)
+[2020-08-26 21:44:45,023][base.py:440][INFO][13908] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 21:44:45,024][base.py:881][INFO][13908] - Added job "time_task" to job store "default"
+[2020-08-26 21:44:45,025][base.py:166][INFO][13908] - Scheduler started
+[2020-08-26 21:44:45,025][base.py:940][DEBUG][2396] - Looking for jobs to run
+[2020-08-26 21:44:45,025][base.py:1020][DEBUG][2396] - Next wakeup is due at 2020-08-26 21:45:45.023799+08:00 (in 59.998001 seconds)
+[2020-08-26 21:45:06,586][base.py:440][INFO][5040] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 21:45:06,587][base.py:881][INFO][5040] - Added job "time_task" to job store "default"
+[2020-08-26 21:45:06,588][base.py:166][INFO][5040] - Scheduler started
+[2020-08-26 21:45:06,588][base.py:940][DEBUG][5268] - Looking for jobs to run
+[2020-08-26 21:45:06,588][base.py:1020][DEBUG][5268] - Next wakeup is due at 2020-08-26 21:46:06.586336+08:00 (in 59.997987 seconds)
+[2020-08-26 21:45:06,641][_internal.py:113][INFO][5040] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 22:13:31,228][base.py:440][INFO][10556] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 22:13:31,229][base.py:881][INFO][10556] - Added job "time_task" to job store "default"
+[2020-08-26 22:13:31,229][base.py:166][INFO][10556] - Scheduler started
+[2020-08-26 22:13:31,230][base.py:940][DEBUG][8540] - Looking for jobs to run
+[2020-08-26 22:13:31,230][base.py:1020][DEBUG][8540] - Next wakeup is due at 2020-08-26 22:14:31.228674+08:00 (in 59.998001 seconds)
+[2020-08-26 22:13:31,270][_internal.py:113][INFO][10556] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 22:13:33,560][base.py:19][ERROR][13420] - {'account': ['This field is required.'], 'password': ['This field is required.']}
+[2020-08-26 22:13:33,561][_internal.py:113][INFO][13420] - 127.0.0.1 - - [26/Aug/2020 22:13:33] "[31m[1mPOST /web_v1/user/login HTTP/1.1[0m" 400 -
+[2020-08-26 22:14:31,230][base.py:940][DEBUG][8540] - Looking for jobs to run
+[2020-08-26 22:14:31,230][base.py:123][INFO][2332] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:14:31 CST)" (scheduled at 2020-08-26 22:14:31.228674+08:00)
+[2020-08-26 22:14:31,232][base.py:1020][DEBUG][8540] - Next wakeup is due at 2020-08-26 22:15:31.228674+08:00 (in 59.998667 seconds)
+[2020-08-26 22:14:31,232][base.py:144][INFO][2332] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:15:31 CST)" executed successfully
+[2020-08-26 22:15:31,233][base.py:940][DEBUG][8540] - Looking for jobs to run
+[2020-08-26 22:15:31,233][base.py:123][INFO][2332] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:15:31 CST)" (scheduled at 2020-08-26 22:15:31.228674+08:00)
+[2020-08-26 22:15:31,233][base.py:1020][DEBUG][8540] - Next wakeup is due at 2020-08-26 22:16:31.228674+08:00 (in 59.994766 seconds)
+[2020-08-26 22:15:31,234][base.py:144][INFO][2332] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:16:31 CST)" executed successfully
+[2020-08-26 22:16:31,230][base.py:940][DEBUG][8540] - Looking for jobs to run
+[2020-08-26 22:16:31,231][base.py:123][INFO][12544] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:16:31 CST)" (scheduled at 2020-08-26 22:16:31.228674+08:00)
+[2020-08-26 22:16:31,232][base.py:1020][DEBUG][8540] - Next wakeup is due at 2020-08-26 22:17:31.228674+08:00 (in 59.998426 seconds)
+[2020-08-26 22:16:31,232][base.py:144][INFO][12544] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:17:31 CST)" executed successfully
+[2020-08-26 22:17:31,232][base.py:940][DEBUG][8540] - Looking for jobs to run
+[2020-08-26 22:17:31,232][base.py:123][INFO][2332] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:17:31 CST)" (scheduled at 2020-08-26 22:17:31.228674+08:00)
+[2020-08-26 22:17:31,232][base.py:144][INFO][2332] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:17:31 CST)" executed successfully
+[2020-08-26 22:17:31,233][base.py:1020][DEBUG][8540] - Next wakeup is due at 2020-08-26 22:18:31.228674+08:00 (in 59.996109 seconds)
+[2020-08-26 22:18:31,230][base.py:940][DEBUG][8540] - Looking for jobs to run
+[2020-08-26 22:18:31,230][base.py:123][INFO][12544] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:18:31 CST)" (scheduled at 2020-08-26 22:18:31.228674+08:00)
+[2020-08-26 22:18:31,230][base.py:144][INFO][12544] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:18:31 CST)" executed successfully
+[2020-08-26 22:18:31,231][base.py:1020][DEBUG][8540] - Next wakeup is due at 2020-08-26 22:19:31.228674+08:00 (in 59.997762 seconds)
+[2020-08-26 22:19:18,955][base.py:440][INFO][1676] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 22:19:18,956][base.py:881][INFO][1676] - Added job "time_task" to job store "default"
+[2020-08-26 22:19:18,956][base.py:166][INFO][1676] - Scheduler started
+[2020-08-26 22:19:18,956][base.py:940][DEBUG][2600] - Looking for jobs to run
+[2020-08-26 22:19:18,957][base.py:1020][DEBUG][2600] - Next wakeup is due at 2020-08-26 22:20:18.954316+08:00 (in 59.996986 seconds)
+[2020-08-26 22:19:19,000][_internal.py:113][INFO][1676] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 22:19:26,770][app.py:1892][ERROR][11336] - Exception on /web_v1/user/login [POST]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\application\web_v1\controllers\userController.py", line 19, in login
+    form=UserLoginForm()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\wtforms\form.py", line 208, in __call__
+    return type.__call__(cls, *args, **kwargs)
+TypeError: __init__() takes 1 positional argument but 2 were given
+[2020-08-26 22:19:26,780][_internal.py:113][INFO][11336] - 127.0.0.1 - - [26/Aug/2020 22:19:26] "[35m[1mPOST /web_v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-26 22:20:18,954][base.py:940][DEBUG][2600] - Looking for jobs to run
+[2020-08-26 22:20:18,955][base.py:123][INFO][5564] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:20:18 CST)" (scheduled at 2020-08-26 22:20:18.954316+08:00)
+[2020-08-26 22:20:18,956][base.py:1020][DEBUG][2600] - Next wakeup is due at 2020-08-26 22:21:18.954316+08:00 (in 59.999635 seconds)
+[2020-08-26 22:20:18,957][base.py:144][INFO][5564] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:21:18 CST)" executed successfully
+[2020-08-26 22:21:18,959][base.py:940][DEBUG][2600] - Looking for jobs to run
+[2020-08-26 22:21:18,960][base.py:123][INFO][5564] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:21:18 CST)" (scheduled at 2020-08-26 22:21:18.954316+08:00)
+[2020-08-26 22:21:18,960][base.py:1020][DEBUG][2600] - Next wakeup is due at 2020-08-26 22:22:18.954316+08:00 (in 59.994694 seconds)
+[2020-08-26 22:21:18,961][base.py:144][INFO][5564] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:22:18 CST)" executed successfully
+[2020-08-26 22:21:43,459][app.py:1892][ERROR][12356] - Exception on /web_v1/user/login [POST]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\application\web_v1\controllers\userController.py", line 19, in login
+    form=UserLoginForm()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\wtforms\form.py", line 208, in __call__
+    return type.__call__(cls, *args, **kwargs)
+TypeError: __init__() takes 1 positional argument but 2 were given
+[2020-08-26 22:21:43,463][_internal.py:113][INFO][12356] - 127.0.0.1 - - [26/Aug/2020 22:21:43] "[35m[1mPOST /web_v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-26 22:22:08,511][base.py:440][INFO][8664] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 22:22:08,512][base.py:881][INFO][8664] - Added job "time_task" to job store "default"
+[2020-08-26 22:22:08,512][base.py:166][INFO][8664] - Scheduler started
+[2020-08-26 22:22:08,513][base.py:940][DEBUG][2980] - Looking for jobs to run
+[2020-08-26 22:22:08,513][base.py:1020][DEBUG][2980] - Next wakeup is due at 2020-08-26 22:23:08.511634+08:00 (in 59.998013 seconds)
+[2020-08-26 22:22:08,552][_internal.py:113][INFO][8664] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 22:22:12,625][userService.py:31][INFO][8720] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000002CFC88066C8>
+[2020-08-26 22:22:12,636][userService.py:38][ERROR][8720] - userService - login - 错误 - 'QuerySet' object has no attribute 'password'
+[2020-08-26 22:22:12,637][_internal.py:113][INFO][8720] - 127.0.0.1 - - [26/Aug/2020 22:22:12] "[35m[1mPOST /web_v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-26 22:23:08,513][base.py:940][DEBUG][2980] - Looking for jobs to run
+[2020-08-26 22:23:08,513][base.py:123][INFO][12008] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:23:08 CST)" (scheduled at 2020-08-26 22:23:08.511634+08:00)
+[2020-08-26 22:23:08,514][base.py:1020][DEBUG][2980] - Next wakeup is due at 2020-08-26 22:24:08.511634+08:00 (in 59.998182 seconds)
+[2020-08-26 22:23:08,514][base.py:144][INFO][12008] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:24:08 CST)" executed successfully
+[2020-08-26 22:24:08,513][base.py:940][DEBUG][2980] - Looking for jobs to run
+[2020-08-26 22:24:08,515][base.py:123][INFO][12008] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:24:08 CST)" (scheduled at 2020-08-26 22:24:08.511634+08:00)
+[2020-08-26 22:24:08,516][base.py:144][INFO][12008] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:24:08 CST)" executed successfully
+[2020-08-26 22:24:08,517][base.py:1020][DEBUG][2980] - Next wakeup is due at 2020-08-26 22:25:08.511634+08:00 (in 59.996808 seconds)
+[2020-08-26 22:24:31,801][base.py:440][INFO][6424] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 22:24:31,805][base.py:881][INFO][6424] - Added job "time_task" to job store "default"
+[2020-08-26 22:24:31,805][base.py:166][INFO][6424] - Scheduler started
+[2020-08-26 22:24:31,814][base.py:940][DEBUG][13588] - Looking for jobs to run
+[2020-08-26 22:24:31,815][base.py:1020][DEBUG][13588] - Next wakeup is due at 2020-08-26 22:25:31.800747+08:00 (in 59.985009 seconds)
+[2020-08-26 22:24:31,920][_internal.py:113][INFO][6424] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 22:24:36,320][userService.py:31][INFO][7388] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001AC6B5F94C8>
+[2020-08-26 22:25:08,828][base.py:440][INFO][6044] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 22:25:08,829][base.py:881][INFO][6044] - Added job "time_task" to job store "default"
+[2020-08-26 22:25:08,830][base.py:166][INFO][6044] - Scheduler started
+[2020-08-26 22:25:08,830][base.py:940][DEBUG][380] - Looking for jobs to run
+[2020-08-26 22:25:08,830][base.py:1020][DEBUG][380] - Next wakeup is due at 2020-08-26 22:26:08.828624+08:00 (in 59.998002 seconds)
+[2020-08-26 22:25:08,883][_internal.py:113][INFO][6044] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 22:25:14,798][userService.py:31][INFO][2972] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000002E6847C6508>
+[2020-08-26 22:25:14,810][userService.py:38][ERROR][2972] - userService - login - 错误 - cannot encode object: <wtforms.fields.core.StringField object at 0x000002E6847C6988>, of type: <class 'wtforms.fields.core.StringField'>
+[2020-08-26 22:25:14,812][_internal.py:113][INFO][2972] - 127.0.0.1 - - [26/Aug/2020 22:25:14] "[35m[1mPOST /web_v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-26 22:25:34,994][base.py:440][INFO][5472] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 22:25:34,995][base.py:881][INFO][5472] - Added job "time_task" to job store "default"
+[2020-08-26 22:25:34,995][base.py:166][INFO][5472] - Scheduler started
+[2020-08-26 22:25:34,996][base.py:940][DEBUG][10700] - Looking for jobs to run
+[2020-08-26 22:25:34,996][base.py:1020][DEBUG][10700] - Next wakeup is due at 2020-08-26 22:26:34.994139+08:00 (in 59.998005 seconds)
+[2020-08-26 22:25:35,045][_internal.py:113][INFO][5472] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 22:25:37,361][userService.py:31][INFO][5352] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001ACD48E7688>
+[2020-08-26 22:25:37,376][app.py:1892][ERROR][5352] - Exception on /web_v1/user/login [POST]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\application\web_v1\controllers\userController.py", line 21, in login
+    result=userService.login(form)
+  File "D:\Poject\python\flask-restful\application\web_v1\service\userService.py", line 32, in login
+    if verify_login(form.account,form.password):
+  File "D:\Poject\python\flask-restful\application\web_v1\service\userService.py", line 25, in verify_login
+    if len(user)==0:
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 62, in __len__
+    list(self._iter_results())
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 110, in _iter_results
+    self._populate_cache()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 129, in _populate_cache
+    self._result_cache.append(next(self))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\base.py", line 1590, in __next__
+    raw_doc = next(self._cursor)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1207, in next
+    if len(self.__data) or self._refresh():
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1124, in _refresh
+    self.__send_message(q)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1001, in __send_message
+    address=self.__address)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1372, in _run_operation_with_response
+    exhaust=exhaust)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1471, in _retryable_read
+    return func(session, server, sock_info, slave_ok)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1366, in _cmd
+    unpack_res)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\server.py", line 102, in run_operation_with_response
+    set_slave_okay, sock_info, use_cmd)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\message.py", line 346, in get_message
+    ctx=sock_info.compression_context)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\message.py", line 715, in _op_msg
+    flags, command, identifier, docs, check_keys, opts)
+bson.errors.InvalidDocument: cannot encode object: <wtforms.fields.core.StringField object at 0x000001ACD48E7A48>, of type: <class 'wtforms.fields.core.StringField'>
+[2020-08-26 22:25:37,389][_internal.py:113][INFO][5352] - 127.0.0.1 - - [26/Aug/2020 22:25:37] "[35m[1mPOST /web_v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-26 22:26:18,911][base.py:440][INFO][2040] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 22:26:18,915][base.py:881][INFO][2040] - Added job "time_task" to job store "default"
+[2020-08-26 22:26:18,915][base.py:166][INFO][2040] - Scheduler started
+[2020-08-26 22:26:18,918][base.py:940][DEBUG][10476] - Looking for jobs to run
+[2020-08-26 22:26:18,920][base.py:1020][DEBUG][10476] - Next wakeup is due at 2020-08-26 22:27:18.911752+08:00 (in 59.991002 seconds)
+[2020-08-26 22:26:19,020][_internal.py:113][INFO][2040] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 22:26:26,685][userService.py:31][INFO][14036] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001CF75CAEB08>
+[2020-08-26 22:26:44,964][_internal.py:113][INFO][14036] - 127.0.0.1 - - [26/Aug/2020 22:26:44] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-26 22:26:52,211][base.py:440][INFO][1960] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 22:26:52,212][base.py:881][INFO][1960] - Added job "time_task" to job store "default"
+[2020-08-26 22:26:52,212][base.py:166][INFO][1960] - Scheduler started
+[2020-08-26 22:26:52,212][base.py:940][DEBUG][2884] - Looking for jobs to run
+[2020-08-26 22:26:52,213][base.py:1020][DEBUG][2884] - Next wakeup is due at 2020-08-26 22:27:52.211448+08:00 (in 59.998003 seconds)
+[2020-08-26 22:26:52,263][_internal.py:113][INFO][1960] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 22:26:54,136][userService.py:31][INFO][5384] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001CAF76A66C8>
+[2020-08-26 22:26:54,152][app.py:1892][ERROR][5384] - Exception on /web_v1/user/login [POST]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\application\web_v1\controllers\userController.py", line 21, in login
+    result=userService.login(form)
+  File "D:\Poject\python\flask-restful\application\web_v1\service\userService.py", line 32, in login
+    if verify_login(form.account,form.password):
+  File "D:\Poject\python\flask-restful\application\web_v1\service\userService.py", line 25, in verify_login
+    if len(user)==0:
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 62, in __len__
+    list(self._iter_results())
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 110, in _iter_results
+    self._populate_cache()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 129, in _populate_cache
+    self._result_cache.append(next(self))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\base.py", line 1590, in __next__
+    raw_doc = next(self._cursor)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1207, in next
+    if len(self.__data) or self._refresh():
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1124, in _refresh
+    self.__send_message(q)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1001, in __send_message
+    address=self.__address)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1372, in _run_operation_with_response
+    exhaust=exhaust)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1471, in _retryable_read
+    return func(session, server, sock_info, slave_ok)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1366, in _cmd
+    unpack_res)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\server.py", line 102, in run_operation_with_response
+    set_slave_okay, sock_info, use_cmd)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\message.py", line 346, in get_message
+    ctx=sock_info.compression_context)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\message.py", line 715, in _op_msg
+    flags, command, identifier, docs, check_keys, opts)
+bson.errors.InvalidDocument: cannot encode object: <wtforms.fields.core.StringField object at 0x000001CAF99C1048>, of type: <class 'wtforms.fields.core.StringField'>
+[2020-08-26 22:26:54,158][_internal.py:113][INFO][5384] - 127.0.0.1 - - [26/Aug/2020 22:26:54] "[35m[1mPOST /web_v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-26 22:27:05,938][userService.py:31][INFO][2476] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001CAF9A942C8>
+[2020-08-26 22:27:05,938][app.py:1892][ERROR][2476] - Exception on /web_v1/user/login [POST]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\application\web_v1\controllers\userController.py", line 21, in login
+    result=userService.login(form)
+  File "D:\Poject\python\flask-restful\application\web_v1\service\userService.py", line 32, in login
+    if verify_login(form.account,form.password):
+  File "D:\Poject\python\flask-restful\application\web_v1\service\userService.py", line 25, in verify_login
+    if len(user)==0:
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 62, in __len__
+    list(self._iter_results())
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 110, in _iter_results
+    self._populate_cache()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 129, in _populate_cache
+    self._result_cache.append(next(self))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\base.py", line 1590, in __next__
+    raw_doc = next(self._cursor)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1207, in next
+    if len(self.__data) or self._refresh():
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1124, in _refresh
+    self.__send_message(q)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1001, in __send_message
+    address=self.__address)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1372, in _run_operation_with_response
+    exhaust=exhaust)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1471, in _retryable_read
+    return func(session, server, sock_info, slave_ok)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1366, in _cmd
+    unpack_res)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\server.py", line 102, in run_operation_with_response
+    set_slave_okay, sock_info, use_cmd)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\message.py", line 346, in get_message
+    ctx=sock_info.compression_context)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\message.py", line 715, in _op_msg
+    flags, command, identifier, docs, check_keys, opts)
+bson.errors.InvalidDocument: cannot encode object: <wtforms.fields.core.StringField object at 0x000001CAF9A945C8>, of type: <class 'wtforms.fields.core.StringField'>
+[2020-08-26 22:27:05,940][_internal.py:113][INFO][2476] - 127.0.0.1 - - [26/Aug/2020 22:27:05] "[35m[1mPOST /web_v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-26 22:27:07,547][userService.py:31][INFO][12600] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001CAF9A99E48>
+[2020-08-26 22:27:07,548][app.py:1892][ERROR][12600] - Exception on /web_v1/user/login [POST]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\application\web_v1\controllers\userController.py", line 21, in login
+    result=userService.login(form)
+  File "D:\Poject\python\flask-restful\application\web_v1\service\userService.py", line 32, in login
+    if verify_login(form.account,form.password):
+  File "D:\Poject\python\flask-restful\application\web_v1\service\userService.py", line 25, in verify_login
+    if len(user)==0:
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 62, in __len__
+    list(self._iter_results())
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 110, in _iter_results
+    self._populate_cache()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 129, in _populate_cache
+    self._result_cache.append(next(self))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\base.py", line 1590, in __next__
+    raw_doc = next(self._cursor)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1207, in next
+    if len(self.__data) or self._refresh():
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1124, in _refresh
+    self.__send_message(q)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1001, in __send_message
+    address=self.__address)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1372, in _run_operation_with_response
+    exhaust=exhaust)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1471, in _retryable_read
+    return func(session, server, sock_info, slave_ok)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1366, in _cmd
+    unpack_res)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\server.py", line 102, in run_operation_with_response
+    set_slave_okay, sock_info, use_cmd)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\message.py", line 346, in get_message
+    ctx=sock_info.compression_context)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\message.py", line 715, in _op_msg
+    flags, command, identifier, docs, check_keys, opts)
+bson.errors.InvalidDocument: cannot encode object: <wtforms.fields.core.StringField object at 0x000001CAF9A9D208>, of type: <class 'wtforms.fields.core.StringField'>
+[2020-08-26 22:27:07,551][_internal.py:113][INFO][12600] - 127.0.0.1 - - [26/Aug/2020 22:27:07] "[35m[1mPOST /web_v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-26 22:27:22,369][base.py:440][INFO][8620] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 22:27:22,372][base.py:881][INFO][8620] - Added job "time_task" to job store "default"
+[2020-08-26 22:27:22,372][base.py:166][INFO][8620] - Scheduler started
+[2020-08-26 22:27:22,374][base.py:940][DEBUG][1448] - Looking for jobs to run
+[2020-08-26 22:27:22,375][base.py:1020][DEBUG][1448] - Next wakeup is due at 2020-08-26 22:28:22.369551+08:00 (in 59.993990 seconds)
+[2020-08-26 22:27:22,472][_internal.py:113][INFO][8620] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 22:27:37,951][userService.py:31][INFO][14252] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x0000022B64E112C8>
+[2020-08-26 22:28:01,274][_internal.py:113][INFO][14252] - 127.0.0.1 - - [26/Aug/2020 22:28:01] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-26 22:28:10,576][base.py:440][INFO][8728] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 22:28:10,578][base.py:881][INFO][8728] - Added job "time_task" to job store "default"
+[2020-08-26 22:28:10,578][base.py:166][INFO][8728] - Scheduler started
+[2020-08-26 22:28:10,578][base.py:940][DEBUG][9712] - Looking for jobs to run
+[2020-08-26 22:28:10,578][base.py:1020][DEBUG][9712] - Next wakeup is due at 2020-08-26 22:29:10.576258+08:00 (in 59.997999 seconds)
+[2020-08-26 22:28:10,622][_internal.py:113][INFO][8728] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 22:28:24,049][userService.py:31][INFO][260] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x00000284C5EB0E88>
+[2020-08-26 22:28:24,065][app.py:1892][ERROR][260] - Exception on /web_v1/user/login [POST]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\application\web_v1\controllers\userController.py", line 21, in login
+    result=userService.login(form)
+  File "D:\Poject\python\flask-restful\application\web_v1\service\userService.py", line 32, in login
+    if verify_login(form.account,form.password):
+  File "D:\Poject\python\flask-restful\application\web_v1\service\userService.py", line 25, in verify_login
+    if len(user)==0:
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 62, in __len__
+    list(self._iter_results())
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 110, in _iter_results
+    self._populate_cache()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\queryset.py", line 129, in _populate_cache
+    self._result_cache.append(next(self))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\mongoengine\queryset\base.py", line 1590, in __next__
+    raw_doc = next(self._cursor)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1207, in next
+    if len(self.__data) or self._refresh():
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1124, in _refresh
+    self.__send_message(q)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\cursor.py", line 1001, in __send_message
+    address=self.__address)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1372, in _run_operation_with_response
+    exhaust=exhaust)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1471, in _retryable_read
+    return func(session, server, sock_info, slave_ok)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\mongo_client.py", line 1366, in _cmd
+    unpack_res)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\server.py", line 102, in run_operation_with_response
+    set_slave_okay, sock_info, use_cmd)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\message.py", line 346, in get_message
+    ctx=sock_info.compression_context)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\pymongo\message.py", line 715, in _op_msg
+    flags, command, identifier, docs, check_keys, opts)
+bson.errors.InvalidDocument: cannot encode object: <wtforms.fields.core.StringField object at 0x00000284C6BC5B88>, of type: <class 'wtforms.fields.core.StringField'>
+[2020-08-26 22:28:24,073][_internal.py:113][INFO][260] - 127.0.0.1 - - [26/Aug/2020 22:28:24] "[35m[1mPOST /web_v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-26 22:29:11,782][base.py:440][INFO][5412] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 22:29:11,784][base.py:881][INFO][5412] - Added job "time_task" to job store "default"
+[2020-08-26 22:29:11,784][base.py:166][INFO][5412] - Scheduler started
+[2020-08-26 22:29:11,785][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:29:11,785][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:30:11.782892+08:00 (in 59.997002 seconds)
+[2020-08-26 22:29:11,839][_internal.py:113][INFO][5412] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 22:29:18,163][userService.py:31][INFO][2868] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x0000013277985BC8>
+[2020-08-26 22:29:18,175][_internal.py:113][INFO][2868] - 127.0.0.1 - - [26/Aug/2020 22:29:18] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-26 22:30:11,799][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:30:11,799][base.py:123][INFO][7924] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:30:11 CST)" (scheduled at 2020-08-26 22:30:11.782892+08:00)
+[2020-08-26 22:30:11,799][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:31:11.782892+08:00 (in 59.983685 seconds)
+[2020-08-26 22:30:11,800][base.py:144][INFO][7924] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:31:11 CST)" executed successfully
+[2020-08-26 22:31:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:31:11,784][base.py:123][INFO][7924] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:31:11 CST)" (scheduled at 2020-08-26 22:31:11.782892+08:00)
+[2020-08-26 22:31:11,784][base.py:144][INFO][7924] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:31:11 CST)" executed successfully
+[2020-08-26 22:31:11,785][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:32:11.782892+08:00 (in 59.998314 seconds)
+[2020-08-26 22:32:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:32:11,785][base.py:123][INFO][14100] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:32:11 CST)" (scheduled at 2020-08-26 22:32:11.782892+08:00)
+[2020-08-26 22:32:11,786][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:33:11.782892+08:00 (in 59.997984 seconds)
+[2020-08-26 22:32:11,787][base.py:144][INFO][14100] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:33:11 CST)" executed successfully
+[2020-08-26 22:33:11,799][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:33:11,799][base.py:123][INFO][10084] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:33:11 CST)" (scheduled at 2020-08-26 22:33:11.782892+08:00)
+[2020-08-26 22:33:11,800][base.py:144][INFO][10084] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:33:11 CST)" executed successfully
+[2020-08-26 22:33:11,800][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:34:11.782892+08:00 (in 59.983702 seconds)
+[2020-08-26 22:34:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:34:11,784][base.py:123][INFO][14100] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:34:11 CST)" (scheduled at 2020-08-26 22:34:11.782892+08:00)
+[2020-08-26 22:34:11,784][base.py:144][INFO][14100] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:34:11 CST)" executed successfully
+[2020-08-26 22:34:11,785][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:35:11.782892+08:00 (in 59.998334 seconds)
+[2020-08-26 22:35:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:35:11,785][base.py:123][INFO][7924] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:35:11 CST)" (scheduled at 2020-08-26 22:35:11.782892+08:00)
+[2020-08-26 22:35:11,786][base.py:144][INFO][7924] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:35:11 CST)" executed successfully
+[2020-08-26 22:35:11,787][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:36:11.782892+08:00 (in 59.998000 seconds)
+[2020-08-26 22:36:11,786][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:36:11,786][base.py:123][INFO][14100] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:36:11 CST)" (scheduled at 2020-08-26 22:36:11.782892+08:00)
+[2020-08-26 22:36:11,786][base.py:144][INFO][14100] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:36:11 CST)" executed successfully
+[2020-08-26 22:36:11,787][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:37:11.782892+08:00 (in 59.996675 seconds)
+[2020-08-26 22:37:11,797][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:37:11,798][base.py:123][INFO][1860] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:37:11 CST)" (scheduled at 2020-08-26 22:37:11.782892+08:00)
+[2020-08-26 22:37:11,799][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:38:11.782892+08:00 (in 59.985386 seconds)
+[2020-08-26 22:37:11,800][base.py:144][INFO][1860] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:38:11 CST)" executed successfully
+[2020-08-26 22:38:11,786][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:38:11,786][base.py:123][INFO][14108] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:38:11 CST)" (scheduled at 2020-08-26 22:38:11.782892+08:00)
+[2020-08-26 22:38:11,786][base.py:144][INFO][14108] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:38:11 CST)" executed successfully
+[2020-08-26 22:38:11,787][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:39:11.782892+08:00 (in 59.996023 seconds)
+[2020-08-26 22:39:11,798][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:39:11,799][base.py:123][INFO][14100] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:39:11 CST)" (scheduled at 2020-08-26 22:39:11.782892+08:00)
+[2020-08-26 22:39:11,800][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:40:11.782892+08:00 (in 59.984732 seconds)
+[2020-08-26 22:39:11,801][base.py:144][INFO][14100] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:40:11 CST)" executed successfully
+[2020-08-26 22:40:11,785][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:40:11,786][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:41:11.782892+08:00 (in 59.997364 seconds)
+[2020-08-26 22:40:11,786][base.py:123][INFO][5716] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:41:11 CST)" (scheduled at 2020-08-26 22:40:11.782892+08:00)
+[2020-08-26 22:40:11,787][base.py:144][INFO][5716] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:41:11 CST)" executed successfully
+[2020-08-26 22:41:11,798][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:41:11,798][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:42:11.782892+08:00 (in 59.984411 seconds)
+[2020-08-26 22:41:11,798][base.py:123][INFO][12816] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:42:11 CST)" (scheduled at 2020-08-26 22:41:11.782892+08:00)
+[2020-08-26 22:41:11,799][base.py:144][INFO][12816] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:42:11 CST)" executed successfully
+[2020-08-26 22:42:11,783][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:42:11,783][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:43:11.782892+08:00 (in 59.999036 seconds)
+[2020-08-26 22:42:11,784][base.py:123][INFO][14040] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:43:11 CST)" (scheduled at 2020-08-26 22:42:11.782892+08:00)
+[2020-08-26 22:42:11,784][base.py:144][INFO][14040] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:43:11 CST)" executed successfully
+[2020-08-26 22:43:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:43:11,784][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:44:11.782892+08:00 (in 59.998707 seconds)
+[2020-08-26 22:43:11,785][base.py:123][INFO][9120] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:44:11 CST)" (scheduled at 2020-08-26 22:43:11.782892+08:00)
+[2020-08-26 22:43:11,785][base.py:144][INFO][9120] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:44:11 CST)" executed successfully
+[2020-08-26 22:44:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:44:11,784][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:45:11.782892+08:00 (in 59.998381 seconds)
+[2020-08-26 22:44:11,785][base.py:123][INFO][13128] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:45:11 CST)" (scheduled at 2020-08-26 22:44:11.782892+08:00)
+[2020-08-26 22:44:11,785][base.py:144][INFO][13128] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:45:11 CST)" executed successfully
+[2020-08-26 22:45:11,783][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:45:11,783][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:46:11.782892+08:00 (in 59.999060 seconds)
+[2020-08-26 22:45:11,783][base.py:123][INFO][7924] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:46:11 CST)" (scheduled at 2020-08-26 22:45:11.782892+08:00)
+[2020-08-26 22:45:11,783][base.py:144][INFO][7924] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:46:11 CST)" executed successfully
+[2020-08-26 22:46:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:46:11,785][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:47:11.782892+08:00 (in 59.998726 seconds)
+[2020-08-26 22:46:11,785][base.py:123][INFO][1860] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:47:11 CST)" (scheduled at 2020-08-26 22:46:11.782892+08:00)
+[2020-08-26 22:46:11,786][base.py:144][INFO][1860] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:47:11 CST)" executed successfully
+[2020-08-26 22:47:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:47:11,784][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:48:11.782892+08:00 (in 59.998390 seconds)
+[2020-08-26 22:47:11,785][base.py:123][INFO][14040] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:48:11 CST)" (scheduled at 2020-08-26 22:47:11.782892+08:00)
+[2020-08-26 22:47:11,786][base.py:144][INFO][14040] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:48:11 CST)" executed successfully
+[2020-08-26 22:48:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:48:11,785][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:49:11.782892+08:00 (in 59.998071 seconds)
+[2020-08-26 22:48:11,785][base.py:123][INFO][9120] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:49:11 CST)" (scheduled at 2020-08-26 22:48:11.782892+08:00)
+[2020-08-26 22:48:11,786][base.py:144][INFO][9120] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:49:11 CST)" executed successfully
+[2020-08-26 22:49:11,785][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:49:11,786][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:50:11.782892+08:00 (in 59.997734 seconds)
+[2020-08-26 22:49:11,786][base.py:123][INFO][13128] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:50:11 CST)" (scheduled at 2020-08-26 22:49:11.782892+08:00)
+[2020-08-26 22:49:11,787][base.py:144][INFO][13128] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:50:11 CST)" executed successfully
+[2020-08-26 22:50:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:50:11,785][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:51:11.782892+08:00 (in 59.998415 seconds)
+[2020-08-26 22:50:11,785][base.py:123][INFO][7924] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:51:11 CST)" (scheduled at 2020-08-26 22:50:11.782892+08:00)
+[2020-08-26 22:50:11,786][base.py:144][INFO][7924] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:51:11 CST)" executed successfully
+[2020-08-26 22:51:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:51:11,784][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:52:11.782892+08:00 (in 59.998084 seconds)
+[2020-08-26 22:51:11,785][base.py:123][INFO][12816] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:52:11 CST)" (scheduled at 2020-08-26 22:51:11.782892+08:00)
+[2020-08-26 22:51:11,785][base.py:144][INFO][12816] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:52:11 CST)" executed successfully
+[2020-08-26 22:52:11,785][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:52:11,786][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:53:11.782892+08:00 (in 59.997759 seconds)
+[2020-08-26 22:52:11,786][base.py:123][INFO][14040] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:53:11 CST)" (scheduled at 2020-08-26 22:52:11.782892+08:00)
+[2020-08-26 22:52:11,787][base.py:144][INFO][14040] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:53:11 CST)" executed successfully
+[2020-08-26 22:53:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:53:11,784][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:54:11.782892+08:00 (in 59.998434 seconds)
+[2020-08-26 22:53:11,784][base.py:123][INFO][10084] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:54:11 CST)" (scheduled at 2020-08-26 22:53:11.782892+08:00)
+[2020-08-26 22:53:11,785][base.py:144][INFO][10084] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:54:11 CST)" executed successfully
+[2020-08-26 22:54:11,783][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:54:11,784][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:55:11.782892+08:00 (in 59.999103 seconds)
+[2020-08-26 22:54:11,784][base.py:123][INFO][14100] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:55:11 CST)" (scheduled at 2020-08-26 22:54:11.782892+08:00)
+[2020-08-26 22:54:11,785][base.py:144][INFO][14100] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:55:11 CST)" executed successfully
+[2020-08-26 22:55:11,785][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:55:11,786][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:56:11.782892+08:00 (in 59.997774 seconds)
+[2020-08-26 22:55:11,786][base.py:123][INFO][5716] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:56:11 CST)" (scheduled at 2020-08-26 22:55:11.782892+08:00)
+[2020-08-26 22:55:11,787][base.py:144][INFO][5716] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:56:11 CST)" executed successfully
+[2020-08-26 22:56:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:56:11,785][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:57:11.782892+08:00 (in 59.998446 seconds)
+[2020-08-26 22:56:11,785][base.py:123][INFO][12816] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:57:11 CST)" (scheduled at 2020-08-26 22:56:11.782892+08:00)
+[2020-08-26 22:56:11,786][base.py:144][INFO][12816] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:57:11 CST)" executed successfully
+[2020-08-26 22:57:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:57:11,785][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:58:11.782892+08:00 (in 59.998119 seconds)
+[2020-08-26 22:57:11,785][base.py:123][INFO][14108] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:58:11 CST)" (scheduled at 2020-08-26 22:57:11.782892+08:00)
+[2020-08-26 22:57:11,786][base.py:144][INFO][14108] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:58:11 CST)" executed successfully
+[2020-08-26 22:58:11,785][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:58:11,786][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 22:59:11.782892+08:00 (in 59.997792 seconds)
+[2020-08-26 22:58:11,786][base.py:123][INFO][10084] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:59:11 CST)" (scheduled at 2020-08-26 22:58:11.782892+08:00)
+[2020-08-26 22:58:11,787][base.py:144][INFO][10084] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 22:59:11 CST)" executed successfully
+[2020-08-26 22:59:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 22:59:11,784][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 23:00:11.782892+08:00 (in 59.998454 seconds)
+[2020-08-26 22:59:11,785][base.py:123][INFO][13128] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:00:11 CST)" (scheduled at 2020-08-26 22:59:11.782892+08:00)
+[2020-08-26 22:59:11,786][base.py:144][INFO][13128] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:00:11 CST)" executed successfully
+[2020-08-26 23:00:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 23:00:11,784][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 23:01:11.782892+08:00 (in 59.998139 seconds)
+[2020-08-26 23:00:11,784][base.py:123][INFO][7924] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:01:11 CST)" (scheduled at 2020-08-26 23:00:11.782892+08:00)
+[2020-08-26 23:00:11,785][base.py:144][INFO][7924] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:01:11 CST)" executed successfully
+[2020-08-26 23:01:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 23:01:11,785][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 23:02:11.782892+08:00 (in 59.998807 seconds)
+[2020-08-26 23:01:11,785][base.py:123][INFO][1860] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:02:11 CST)" (scheduled at 2020-08-26 23:01:11.782892+08:00)
+[2020-08-26 23:01:11,786][base.py:144][INFO][1860] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:02:11 CST)" executed successfully
+[2020-08-26 23:02:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 23:02:11,785][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 23:03:11.782892+08:00 (in 59.998491 seconds)
+[2020-08-26 23:02:11,785][base.py:123][INFO][14040] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:03:11 CST)" (scheduled at 2020-08-26 23:02:11.782892+08:00)
+[2020-08-26 23:02:11,786][base.py:144][INFO][14040] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:03:11 CST)" executed successfully
+[2020-08-26 23:03:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 23:03:11,784][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 23:04:11.782892+08:00 (in 59.998149 seconds)
+[2020-08-26 23:03:11,785][base.py:123][INFO][9120] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:04:11 CST)" (scheduled at 2020-08-26 23:03:11.782892+08:00)
+[2020-08-26 23:03:11,785][base.py:144][INFO][9120] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:04:11 CST)" executed successfully
+[2020-08-26 23:04:11,785][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 23:04:11,786][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 23:05:11.782892+08:00 (in 59.997841 seconds)
+[2020-08-26 23:04:11,786][base.py:123][INFO][14100] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:05:11 CST)" (scheduled at 2020-08-26 23:04:11.782892+08:00)
+[2020-08-26 23:04:11,787][base.py:144][INFO][14100] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:05:11 CST)" executed successfully
+[2020-08-26 23:05:11,784][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 23:05:11,784][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 23:06:11.782892+08:00 (in 59.998641 seconds)
+[2020-08-26 23:05:11,784][base.py:123][INFO][7924] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:06:11 CST)" (scheduled at 2020-08-26 23:05:11.782892+08:00)
+[2020-08-26 23:05:11,784][base.py:144][INFO][7924] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:06:11 CST)" executed successfully
+[2020-08-26 23:06:11,783][base.py:940][DEBUG][13624] - Looking for jobs to run
+[2020-08-26 23:06:11,784][base.py:1020][DEBUG][13624] - Next wakeup is due at 2020-08-26 23:07:11.782892+08:00 (in 59.999338 seconds)
+[2020-08-26 23:06:11,784][base.py:123][INFO][12816] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:07:11 CST)" (scheduled at 2020-08-26 23:06:11.782892+08:00)
+[2020-08-26 23:06:11,785][base.py:144][INFO][12816] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:07:11 CST)" executed successfully
+[2020-08-26 23:06:26,402][base.py:440][INFO][11160] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:06:26,403][base.py:881][INFO][11160] - Added job "time_task" to job store "default"
+[2020-08-26 23:06:26,403][base.py:166][INFO][11160] - Scheduler started
+[2020-08-26 23:06:26,404][base.py:940][DEBUG][11596] - Looking for jobs to run
+[2020-08-26 23:06:26,404][base.py:1020][DEBUG][11596] - Next wakeup is due at 2020-08-26 23:07:26.402111+08:00 (in 59.997997 seconds)
+[2020-08-26 23:06:26,434][_internal.py:113][INFO][11160] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:06:34,137][csrf.py:258][INFO][1096] - The CSRF token is missing.
+[2020-08-26 23:06:34,139][_internal.py:113][INFO][1096] - 127.0.0.1 - - [26/Aug/2020 23:06:34] "[31m[1mPOST /web_v1/user/login HTTP/1.1[0m" 400 -
+[2020-08-26 23:06:57,688][csrf.py:258][INFO][10604] - The CSRF token is missing.
+[2020-08-26 23:06:57,689][_internal.py:113][INFO][10604] - 127.0.0.1 - - [26/Aug/2020 23:06:57] "[31m[1mPOST /web_v1/user/login HTTP/1.1[0m" 400 -
+[2020-08-26 23:07:03,123][base.py:440][INFO][13688] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:07:03,124][base.py:881][INFO][13688] - Added job "time_task" to job store "default"
+[2020-08-26 23:07:03,124][base.py:166][INFO][13688] - Scheduler started
+[2020-08-26 23:07:03,124][base.py:940][DEBUG][11112] - Looking for jobs to run
+[2020-08-26 23:07:03,125][base.py:1020][DEBUG][11112] - Next wakeup is due at 2020-08-26 23:08:03.123881+08:00 (in 59.997999 seconds)
+[2020-08-26 23:07:03,165][_internal.py:113][INFO][13688] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:07:06,491][userService.py:31][INFO][3992] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x0000029EC00F9F88>
+[2020-08-26 23:07:06,506][app.py:1892][ERROR][3992] - Exception on /web_v1/user/login [POST]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\application\web_v1\controllers\userController.py", line 21, in login
+    result=userService.login(form)
+  File "D:\Poject\python\flask-restful\application\web_v1\service\userService.py", line 32, in login
+    if verify_login(form.account.data,form.password.data):
+  File "D:\Poject\python\flask-restful\application\web_v1\service\userService.py", line 27, in verify_login
+    return check_password_hash(user.password,password)
+AttributeError: 'QuerySet' object has no attribute 'password'
+[2020-08-26 23:07:06,509][_internal.py:113][INFO][3992] - 127.0.0.1 - - [26/Aug/2020 23:07:06] "[35m[1mPOST /web_v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-26 23:07:49,843][base.py:440][INFO][4976] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:07:49,845][base.py:881][INFO][4976] - Added job "time_task" to job store "default"
+[2020-08-26 23:07:49,845][base.py:166][INFO][4976] - Scheduler started
+[2020-08-26 23:07:49,847][base.py:940][DEBUG][11056] - Looking for jobs to run
+[2020-08-26 23:07:49,848][base.py:1020][DEBUG][11056] - Next wakeup is due at 2020-08-26 23:08:49.842897+08:00 (in 59.995002 seconds)
+[2020-08-26 23:07:49,913][_internal.py:113][INFO][4976] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:07:53,419][userService.py:31][INFO][260] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001A4EEF1CBC8>
+[2020-08-26 23:08:18,373][base.py:440][INFO][5416] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:08:18,374][base.py:881][INFO][5416] - Added job "time_task" to job store "default"
+[2020-08-26 23:08:18,374][base.py:166][INFO][5416] - Scheduler started
+[2020-08-26 23:08:18,374][base.py:940][DEBUG][9044] - Looking for jobs to run
+[2020-08-26 23:08:18,374][base.py:1020][DEBUG][9044] - Next wakeup is due at 2020-08-26 23:09:18.373411+08:00 (in 59.999014 seconds)
+[2020-08-26 23:08:18,415][_internal.py:113][INFO][5416] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:08:27,361][base.py:440][INFO][1764] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:08:27,363][base.py:881][INFO][1764] - Added job "time_task" to job store "default"
+[2020-08-26 23:08:27,363][base.py:166][INFO][1764] - Scheduler started
+[2020-08-26 23:08:27,365][base.py:940][DEBUG][10772] - Looking for jobs to run
+[2020-08-26 23:08:27,366][base.py:1020][DEBUG][10772] - Next wakeup is due at 2020-08-26 23:09:27.360205+08:00 (in 59.995002 seconds)
+[2020-08-26 23:08:27,431][_internal.py:113][INFO][1764] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:08:32,539][userService.py:31][INFO][368] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001525C5CC9C8>
+[2020-08-26 23:08:48,796][base.py:440][INFO][2884] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:08:48,797][base.py:881][INFO][2884] - Added job "time_task" to job store "default"
+[2020-08-26 23:08:48,797][base.py:166][INFO][2884] - Scheduler started
+[2020-08-26 23:08:48,797][base.py:940][DEBUG][12204] - Looking for jobs to run
+[2020-08-26 23:08:48,798][base.py:1020][DEBUG][12204] - Next wakeup is due at 2020-08-26 23:09:48.796816+08:00 (in 59.998001 seconds)
+[2020-08-26 23:08:48,835][_internal.py:113][INFO][2884] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:08:51,390][userService.py:31][INFO][6160] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001675CC81608>
+[2020-08-26 23:08:51,404][_internal.py:113][INFO][6160] - 127.0.0.1 - - [26/Aug/2020 23:08:51] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-26 23:08:54,639][userService.py:31][INFO][6360] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001675C9971C8>
+[2020-08-26 23:08:54,642][_internal.py:113][INFO][6360] - 127.0.0.1 - - [26/Aug/2020 23:08:54] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-26 23:09:04,225][userService.py:31][INFO][12396] - userService - login - 成功 - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001675C89B908>
+[2020-08-26 23:09:04,228][_internal.py:113][INFO][12396] - 127.0.0.1 - - [26/Aug/2020 23:09:04] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-26 23:09:09,050][base.py:440][INFO][12876] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:09:09,053][base.py:881][INFO][12876] - Added job "time_task" to job store "default"
+[2020-08-26 23:09:09,053][base.py:166][INFO][12876] - Scheduler started
+[2020-08-26 23:09:09,055][base.py:940][DEBUG][868] - Looking for jobs to run
+[2020-08-26 23:09:09,056][base.py:1020][DEBUG][868] - Next wakeup is due at 2020-08-26 23:10:09.050113+08:00 (in 59.994003 seconds)
+[2020-08-26 23:09:09,138][_internal.py:113][INFO][12876] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:10:09,062][base.py:940][DEBUG][868] - Looking for jobs to run
+[2020-08-26 23:10:09,070][base.py:123][INFO][8176] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:10:09 CST)" (scheduled at 2020-08-26 23:10:09.050113+08:00)
+[2020-08-26 23:10:09,075][base.py:1020][DEBUG][868] - Next wakeup is due at 2020-08-26 23:11:09.050113+08:00 (in 59.986649 seconds)
+[2020-08-26 23:10:09,077][base.py:144][INFO][8176] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:11:09 CST)" executed successfully
+[2020-08-26 23:11:09,067][base.py:940][DEBUG][868] - Looking for jobs to run
+[2020-08-26 23:11:09,070][base.py:123][INFO][8176] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:11:09 CST)" (scheduled at 2020-08-26 23:11:09.050113+08:00)
+[2020-08-26 23:11:09,070][base.py:1020][DEBUG][868] - Next wakeup is due at 2020-08-26 23:12:09.050113+08:00 (in 59.981354 seconds)
+[2020-08-26 23:11:09,071][base.py:144][INFO][8176] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:12:09 CST)" executed successfully
+[2020-08-26 23:12:09,054][base.py:940][DEBUG][868] - Looking for jobs to run
+[2020-08-26 23:12:09,055][base.py:123][INFO][14060] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:12:09 CST)" (scheduled at 2020-08-26 23:12:09.050113+08:00)
+[2020-08-26 23:12:09,056][base.py:144][INFO][14060] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:12:09 CST)" executed successfully
+[2020-08-26 23:12:09,057][base.py:1020][DEBUG][868] - Next wakeup is due at 2020-08-26 23:13:09.050113+08:00 (in 59.996017 seconds)
+[2020-08-26 23:13:09,054][base.py:940][DEBUG][868] - Looking for jobs to run
+[2020-08-26 23:13:09,055][base.py:123][INFO][14060] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:13:09 CST)" (scheduled at 2020-08-26 23:13:09.050113+08:00)
+[2020-08-26 23:13:09,056][base.py:144][INFO][14060] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:13:09 CST)" executed successfully
+[2020-08-26 23:13:09,057][base.py:1020][DEBUG][868] - Next wakeup is due at 2020-08-26 23:14:09.050113+08:00 (in 59.995660 seconds)
+[2020-08-26 23:14:09,054][base.py:940][DEBUG][868] - Looking for jobs to run
+[2020-08-26 23:14:09,056][base.py:123][INFO][5788] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:14:09 CST)" (scheduled at 2020-08-26 23:14:09.050113+08:00)
+[2020-08-26 23:14:09,059][base.py:144][INFO][5788] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:14:09 CST)" executed successfully
+[2020-08-26 23:14:09,062][base.py:1020][DEBUG][868] - Next wakeup is due at 2020-08-26 23:15:09.050113+08:00 (in 59.994363 seconds)
+[2020-08-26 23:14:29,104][base.py:440][INFO][3428] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:14:29,105][base.py:881][INFO][3428] - Added job "time_task" to job store "default"
+[2020-08-26 23:14:29,105][base.py:166][INFO][3428] - Scheduler started
+[2020-08-26 23:14:29,106][base.py:940][DEBUG][8616] - Looking for jobs to run
+[2020-08-26 23:14:29,106][base.py:1020][DEBUG][8616] - Next wakeup is due at 2020-08-26 23:15:29.104165+08:00 (in 59.998002 seconds)
+[2020-08-26 23:14:29,143][_internal.py:113][INFO][3428] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:15:29,105][base.py:940][DEBUG][8616] - Looking for jobs to run
+[2020-08-26 23:15:29,107][base.py:123][INFO][12916] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:15:29 CST)" (scheduled at 2020-08-26 23:15:29.104165+08:00)
+[2020-08-26 23:15:29,108][base.py:1020][DEBUG][8616] - Next wakeup is due at 2020-08-26 23:16:29.104165+08:00 (in 59.998635 seconds)
+[2020-08-26 23:15:29,109][base.py:144][INFO][12916] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:16:29 CST)" executed successfully
+[2020-08-26 23:16:29,108][base.py:940][DEBUG][8616] - Looking for jobs to run
+[2020-08-26 23:16:29,108][base.py:123][INFO][12916] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:16:29 CST)" (scheduled at 2020-08-26 23:16:29.104165+08:00)
+[2020-08-26 23:16:29,109][base.py:1020][DEBUG][8616] - Next wakeup is due at 2020-08-26 23:17:29.104165+08:00 (in 59.995328 seconds)
+[2020-08-26 23:16:29,109][base.py:144][INFO][12916] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:17:29 CST)" executed successfully
+[2020-08-26 23:17:29,107][base.py:940][DEBUG][8616] - Looking for jobs to run
+[2020-08-26 23:17:29,107][base.py:123][INFO][8188] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:17:29 CST)" (scheduled at 2020-08-26 23:17:29.104165+08:00)
+[2020-08-26 23:17:29,107][base.py:144][INFO][8188] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:17:29 CST)" executed successfully
+[2020-08-26 23:17:29,108][base.py:1020][DEBUG][8616] - Next wakeup is due at 2020-08-26 23:18:29.104165+08:00 (in 59.996988 seconds)
+[2020-08-26 23:18:29,105][base.py:940][DEBUG][8616] - Looking for jobs to run
+[2020-08-26 23:18:29,106][base.py:123][INFO][8188] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:18:29 CST)" (scheduled at 2020-08-26 23:18:29.104165+08:00)
+[2020-08-26 23:18:29,107][base.py:1020][DEBUG][8616] - Next wakeup is due at 2020-08-26 23:19:29.104165+08:00 (in 59.998646 seconds)
+[2020-08-26 23:18:29,107][base.py:144][INFO][8188] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:19:29 CST)" executed successfully
+[2020-08-26 23:19:19,547][base.py:440][INFO][8176] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:19:19,548][base.py:881][INFO][8176] - Added job "time_task" to job store "default"
+[2020-08-26 23:19:19,548][base.py:166][INFO][8176] - Scheduler started
+[2020-08-26 23:19:19,549][base.py:940][DEBUG][11552] - Looking for jobs to run
+[2020-08-26 23:19:19,549][base.py:1020][DEBUG][11552] - Next wakeup is due at 2020-08-26 23:20:19.547340+08:00 (in 59.998016 seconds)
+[2020-08-26 23:19:19,587][_internal.py:113][INFO][8176] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:19:29,028][_internal.py:113][INFO][7368] - 127.0.0.1 - - [26/Aug/2020 23:19:29] "[33mPOST /web_v1/user/register HTTP/1.1[0m" 404 -
+[2020-08-26 23:19:55,084][_internal.py:113][INFO][7924] - 127.0.0.1 - - [26/Aug/2020 23:19:55] "[33mPOST /web_v1/user/register HTTP/1.1[0m" 404 -
+[2020-08-26 23:19:59,166][base.py:440][INFO][12848] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:19:59,167][base.py:881][INFO][12848] - Added job "time_task" to job store "default"
+[2020-08-26 23:19:59,167][base.py:166][INFO][12848] - Scheduler started
+[2020-08-26 23:19:59,167][base.py:940][DEBUG][5956] - Looking for jobs to run
+[2020-08-26 23:19:59,167][base.py:1020][DEBUG][5956] - Next wakeup is due at 2020-08-26 23:20:59.166434+08:00 (in 59.999001 seconds)
+[2020-08-26 23:19:59,205][_internal.py:113][INFO][12848] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:19:59,858][userService.py:45][INFO][14268] - userService - register - Parameter:<application.web_v1.validators.forms.UserForm object at 0x000002018478F208>
+[2020-08-26 23:19:59,874][_internal.py:113][INFO][14268] - 127.0.0.1 - - [26/Aug/2020 23:19:59] "[37mPOST /web_v1/user/register HTTP/1.1[0m" 200 -
+[2020-08-26 23:20:11,202][userService.py:45][INFO][11380] - userService - register - Parameter:<application.web_v1.validators.forms.UserForm object at 0x000002018478FDC8>
+[2020-08-26 23:20:11,368][_internal.py:113][INFO][11380] - 127.0.0.1 - - [26/Aug/2020 23:20:11] "[37mPOST /web_v1/user/register HTTP/1.1[0m" 200 -
+[2020-08-26 23:20:34,538][userService.py:32][INFO][5412] - userService - login - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000002018478F788>
+[2020-08-26 23:20:34,664][app.py:1892][ERROR][5412] - Exception on /web_v1/user/login [POST]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_cors\extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Poject\python\flask-restful\application\web_v1\controllers\userController.py", line 21, in login
+    result = userService.login(form)
+  File "D:\Poject\python\flask-restful\application\web_v1\service\userService.py", line 34, in login
+    login_user(form, remember=form.remember_me.data)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask_login\utils.py", line 166, in login_user
+    if not force and not user.is_active:
+AttributeError: 'UserLoginForm' object has no attribute 'is_active'
+[2020-08-26 23:20:34,666][_internal.py:113][INFO][5412] - 127.0.0.1 - - [26/Aug/2020 23:20:34] "[35m[1mPOST /web_v1/user/login HTTP/1.1[0m" 500 -
+[2020-08-26 23:20:59,169][base.py:940][DEBUG][5956] - Looking for jobs to run
+[2020-08-26 23:20:59,169][base.py:123][INFO][5516] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:20:59 CST)" (scheduled at 2020-08-26 23:20:59.166434+08:00)
+[2020-08-26 23:20:59,170][base.py:1020][DEBUG][5956] - Next wakeup is due at 2020-08-26 23:21:59.166434+08:00 (in 59.997054 seconds)
+[2020-08-26 23:20:59,170][base.py:144][INFO][5516] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:21:59 CST)" executed successfully
+[2020-08-26 23:21:59,169][base.py:940][DEBUG][5956] - Looking for jobs to run
+[2020-08-26 23:21:59,170][base.py:123][INFO][5516] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:21:59 CST)" (scheduled at 2020-08-26 23:21:59.166434+08:00)
+[2020-08-26 23:21:59,171][base.py:1020][DEBUG][5956] - Next wakeup is due at 2020-08-26 23:22:59.166434+08:00 (in 59.996707 seconds)
+[2020-08-26 23:21:59,172][base.py:144][INFO][5516] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:22:59 CST)" executed successfully
+[2020-08-26 23:22:59,170][base.py:940][DEBUG][5956] - Looking for jobs to run
+[2020-08-26 23:22:59,171][base.py:123][INFO][6432] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:22:59 CST)" (scheduled at 2020-08-26 23:22:59.166434+08:00)
+[2020-08-26 23:22:59,172][base.py:1020][DEBUG][5956] - Next wakeup is due at 2020-08-26 23:23:59.166434+08:00 (in 59.996398 seconds)
+[2020-08-26 23:22:59,173][base.py:144][INFO][6432] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:23:59 CST)" executed successfully
+[2020-08-26 23:23:47,645][base.py:440][INFO][4716] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:23:47,646][base.py:881][INFO][4716] - Added job "time_task" to job store "default"
+[2020-08-26 23:23:47,646][base.py:166][INFO][4716] - Scheduler started
+[2020-08-26 23:23:47,647][base.py:940][DEBUG][12632] - Looking for jobs to run
+[2020-08-26 23:23:47,647][base.py:1020][DEBUG][12632] - Next wakeup is due at 2020-08-26 23:24:47.645024+08:00 (in 59.998002 seconds)
+[2020-08-26 23:23:47,685][_internal.py:113][INFO][4716] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:23:52,778][userService.py:20][INFO][10236] - userService - login - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001DEF199DF88>
+[2020-08-26 23:23:53,021][_internal.py:113][INFO][10236] - 127.0.0.1 - - [26/Aug/2020 23:23:53] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-26 23:23:56,653][userService.py:20][INFO][2676] - userService - login - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001DEF19AB308>
+[2020-08-26 23:23:56,868][_internal.py:113][INFO][2676] - 127.0.0.1 - - [26/Aug/2020 23:23:56] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-26 23:24:47,646][base.py:940][DEBUG][12632] - Looking for jobs to run
+[2020-08-26 23:24:47,646][base.py:123][INFO][6188] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:24:47 CST)" (scheduled at 2020-08-26 23:24:47.645024+08:00)
+[2020-08-26 23:24:47,647][base.py:144][INFO][6188] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:24:47 CST)" executed successfully
+[2020-08-26 23:24:47,647][base.py:1020][DEBUG][12632] - Next wakeup is due at 2020-08-26 23:25:47.645024+08:00 (in 59.998645 seconds)
+[2020-08-26 23:25:47,646][base.py:940][DEBUG][12632] - Looking for jobs to run
+[2020-08-26 23:25:47,646][base.py:123][INFO][6188] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:25:47 CST)" (scheduled at 2020-08-26 23:25:47.645024+08:00)
+[2020-08-26 23:25:47,646][base.py:144][INFO][6188] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:25:47 CST)" executed successfully
+[2020-08-26 23:25:47,647][base.py:1020][DEBUG][12632] - Next wakeup is due at 2020-08-26 23:26:47.645024+08:00 (in 59.998330 seconds)
+[2020-08-26 23:26:47,647][base.py:940][DEBUG][12632] - Looking for jobs to run
+[2020-08-26 23:26:47,647][base.py:123][INFO][6188] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:26:47 CST)" (scheduled at 2020-08-26 23:26:47.645024+08:00)
+[2020-08-26 23:26:47,647][base.py:144][INFO][6188] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:26:47 CST)" executed successfully
+[2020-08-26 23:26:47,648][base.py:1020][DEBUG][12632] - Next wakeup is due at 2020-08-26 23:27:47.645024+08:00 (in 59.997989 seconds)
+[2020-08-26 23:27:47,646][base.py:940][DEBUG][12632] - Looking for jobs to run
+[2020-08-26 23:27:47,646][base.py:123][INFO][11516] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:27:47 CST)" (scheduled at 2020-08-26 23:27:47.645024+08:00)
+[2020-08-26 23:27:47,646][base.py:144][INFO][11516] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:27:47 CST)" executed successfully
+[2020-08-26 23:27:47,647][base.py:1020][DEBUG][12632] - Next wakeup is due at 2020-08-26 23:28:47.645024+08:00 (in 59.998660 seconds)
+[2020-08-26 23:28:24,950][_internal.py:113][INFO][13224] - 127.0.0.1 - - [26/Aug/2020 23:28:24] "[33mGET /web_v1/user/logout HTTP/1.1[0m" 404 -
+[2020-08-26 23:28:36,828][base.py:440][INFO][5468] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:28:36,829][base.py:881][INFO][5468] - Added job "time_task" to job store "default"
+[2020-08-26 23:28:36,829][base.py:166][INFO][5468] - Scheduler started
+[2020-08-26 23:28:36,829][base.py:940][DEBUG][4200] - Looking for jobs to run
+[2020-08-26 23:28:36,830][base.py:1020][DEBUG][4200] - Next wakeup is due at 2020-08-26 23:29:36.827914+08:00 (in 59.997004 seconds)
+[2020-08-26 23:28:36,870][_internal.py:113][INFO][5468] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:28:40,831][userService.py:39][INFO][5288] - userService - logout - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x0000024107F5D748>
+[2020-08-26 23:28:40,962][_internal.py:113][INFO][5288] - 127.0.0.1 - - [26/Aug/2020 23:28:40] "[37mGET /web_v1/user/logout HTTP/1.1[0m" 200 -
+[2020-08-26 23:29:36,829][base.py:940][DEBUG][4200] - Looking for jobs to run
+[2020-08-26 23:29:36,830][base.py:123][INFO][13904] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:29:36 CST)" (scheduled at 2020-08-26 23:29:36.827914+08:00)
+[2020-08-26 23:29:36,831][base.py:1020][DEBUG][4200] - Next wakeup is due at 2020-08-26 23:30:36.827914+08:00 (in 59.998636 seconds)
+[2020-08-26 23:29:36,832][base.py:144][INFO][13904] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:30:36 CST)" executed successfully
+[2020-08-26 23:29:45,370][base.py:440][INFO][1400] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:29:45,372][base.py:881][INFO][1400] - Added job "time_task" to job store "default"
+[2020-08-26 23:29:45,372][base.py:166][INFO][1400] - Scheduler started
+[2020-08-26 23:29:45,372][base.py:940][DEBUG][12456] - Looking for jobs to run
+[2020-08-26 23:29:45,372][base.py:1020][DEBUG][12456] - Next wakeup is due at 2020-08-26 23:30:45.370319+08:00 (in 59.998013 seconds)
+[2020-08-26 23:29:45,418][_internal.py:113][INFO][1400] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:29:51,537][userService.py:39][INFO][12816] - userService - logout - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x0000024380318C88>
+[2020-08-26 23:29:51,552][app.py:1892][ERROR][12816] - Exception on /web_v1/user/logout [GET]
+Traceback (most recent call last):
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "D:\Poject\python\flask-restful\venv\lib\site-packages\flask\app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2020-08-26 23:29:51,555][_internal.py:113][INFO][12816] - 127.0.0.1 - - [26/Aug/2020 23:29:51] "[35m[1mGET /web_v1/user/logout HTTP/1.1[0m" 500 -
+[2020-08-26 23:30:13,275][base.py:440][INFO][9916] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:30:13,276][base.py:881][INFO][9916] - Added job "time_task" to job store "default"
+[2020-08-26 23:30:13,276][base.py:166][INFO][9916] - Scheduler started
+[2020-08-26 23:30:13,276][base.py:940][DEBUG][13352] - Looking for jobs to run
+[2020-08-26 23:30:13,276][base.py:1020][DEBUG][13352] - Next wakeup is due at 2020-08-26 23:31:13.275181+08:00 (in 59.999001 seconds)
+[2020-08-26 23:30:13,317][_internal.py:113][INFO][9916] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:30:15,476][userService.py:39][INFO][7860] - userService - logout - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x0000017F56A4E688>
+[2020-08-26 23:30:15,477][_internal.py:113][INFO][7860] - 127.0.0.1 - - [26/Aug/2020 23:30:15] "[37mGET /web_v1/user/logout HTTP/1.1[0m" 200 -
+[2020-08-26 23:31:02,556][base.py:440][INFO][2804] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:31:02,558][base.py:881][INFO][2804] - Added job "time_task" to job store "default"
+[2020-08-26 23:31:02,558][base.py:166][INFO][2804] - Scheduler started
+[2020-08-26 23:31:02,558][base.py:940][DEBUG][13416] - Looking for jobs to run
+[2020-08-26 23:31:02,559][base.py:1020][DEBUG][13416] - Next wakeup is due at 2020-08-26 23:32:02.556716+08:00 (in 59.997997 seconds)
+[2020-08-26 23:31:02,602][_internal.py:113][INFO][2804] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:31:06,011][userService.py:39][INFO][13224] - userService - logout - Parameter:
+[2020-08-26 23:31:06,012][_internal.py:113][INFO][13224] - 127.0.0.1 - - [26/Aug/2020 23:31:06] "[37mGET /web_v1/user/logout HTTP/1.1[0m" 200 -
+[2020-08-26 23:31:07,258][userService.py:39][INFO][13044] - userService - logout - Parameter:
+[2020-08-26 23:31:07,258][_internal.py:113][INFO][13044] - 127.0.0.1 - - [26/Aug/2020 23:31:07] "[37mGET /web_v1/user/logout HTTP/1.1[0m" 200 -
+[2020-08-26 23:31:26,804][base.py:440][INFO][7772] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:31:26,805][base.py:881][INFO][7772] - Added job "time_task" to job store "default"
+[2020-08-26 23:31:26,805][base.py:166][INFO][7772] - Scheduler started
+[2020-08-26 23:31:26,806][base.py:940][DEBUG][9228] - Looking for jobs to run
+[2020-08-26 23:31:26,806][base.py:1020][DEBUG][9228] - Next wakeup is due at 2020-08-26 23:32:26.804689+08:00 (in 59.998001 seconds)
+[2020-08-26 23:31:26,846][_internal.py:113][INFO][7772] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:31:37,706][base.py:440][INFO][6616] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:31:37,707][base.py:881][INFO][6616] - Added job "time_task" to job store "default"
+[2020-08-26 23:31:37,707][base.py:166][INFO][6616] - Scheduler started
+[2020-08-26 23:31:37,707][base.py:940][DEBUG][5272] - Looking for jobs to run
+[2020-08-26 23:31:37,707][base.py:1020][DEBUG][5272] - Next wakeup is due at 2020-08-26 23:32:37.705390+08:00 (in 59.998001 seconds)
+[2020-08-26 23:31:37,746][_internal.py:113][INFO][6616] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:31:42,023][_internal.py:113][INFO][5244] - 127.0.0.1 - - [26/Aug/2020 23:31:42] "[31m[1mGET /web_v1/user/logout HTTP/1.1[0m" 401 -
+[2020-08-26 23:32:37,706][base.py:940][DEBUG][5272] - Looking for jobs to run
+[2020-08-26 23:32:37,706][base.py:123][INFO][13720] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:32:37 CST)" (scheduled at 2020-08-26 23:32:37.705390+08:00)
+[2020-08-26 23:32:37,707][base.py:144][INFO][13720] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:32:37 CST)" executed successfully
+[2020-08-26 23:32:37,707][base.py:1020][DEBUG][5272] - Next wakeup is due at 2020-08-26 23:33:37.705390+08:00 (in 59.998640 seconds)
+[2020-08-26 23:33:37,707][base.py:940][DEBUG][5272] - Looking for jobs to run
+[2020-08-26 23:33:37,707][base.py:123][INFO][13720] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:33:37 CST)" (scheduled at 2020-08-26 23:33:37.705390+08:00)
+[2020-08-26 23:33:37,708][base.py:144][INFO][13720] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:33:37 CST)" executed successfully
+[2020-08-26 23:33:37,709][base.py:1020][DEBUG][5272] - Next wakeup is due at 2020-08-26 23:34:37.705390+08:00 (in 59.998329 seconds)
+[2020-08-26 23:34:37,708][base.py:940][DEBUG][5272] - Looking for jobs to run
+[2020-08-26 23:34:37,708][base.py:123][INFO][13720] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:34:37 CST)" (scheduled at 2020-08-26 23:34:37.705390+08:00)
+[2020-08-26 23:34:37,708][base.py:1020][DEBUG][5272] - Next wakeup is due at 2020-08-26 23:35:37.705390+08:00 (in 59.997019 seconds)
+[2020-08-26 23:34:37,709][base.py:144][INFO][13720] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:35:37 CST)" executed successfully
+[2020-08-26 23:35:37,720][base.py:940][DEBUG][5272] - Looking for jobs to run
+[2020-08-26 23:35:37,720][base.py:123][INFO][3404] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:35:37 CST)" (scheduled at 2020-08-26 23:35:37.705390+08:00)
+[2020-08-26 23:35:37,721][base.py:1020][DEBUG][5272] - Next wakeup is due at 2020-08-26 23:36:37.705390+08:00 (in 59.984675 seconds)
+[2020-08-26 23:35:37,722][base.py:144][INFO][3404] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:36:37 CST)" executed successfully
+[2020-08-26 23:36:27,048][base.py:440][INFO][12564] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:36:27,049][base.py:881][INFO][12564] - Added job "time_task" to job store "default"
+[2020-08-26 23:36:27,049][base.py:166][INFO][12564] - Scheduler started
+[2020-08-26 23:36:27,050][base.py:940][DEBUG][11872] - Looking for jobs to run
+[2020-08-26 23:36:27,050][base.py:1020][DEBUG][11872] - Next wakeup is due at 2020-08-26 23:37:27.048187+08:00 (in 59.998000 seconds)
+[2020-08-26 23:36:27,087][_internal.py:113][INFO][12564] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:37:01,783][base.py:440][INFO][11384] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:37:01,784][base.py:881][INFO][11384] - Added job "time_task" to job store "default"
+[2020-08-26 23:37:01,784][base.py:166][INFO][11384] - Scheduler started
+[2020-08-26 23:37:01,784][base.py:940][DEBUG][12516] - Looking for jobs to run
+[2020-08-26 23:37:01,784][base.py:1020][DEBUG][12516] - Next wakeup is due at 2020-08-26 23:38:01.783115+08:00 (in 59.999001 seconds)
+[2020-08-26 23:37:01,821][_internal.py:113][INFO][11384] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:37:05,754][_internal.py:113][INFO][7748] - 127.0.0.1 - - [26/Aug/2020 23:37:05] "[31m[1mGET /web_v1/user/logout HTTP/1.1[0m" 401 -
+[2020-08-26 23:37:09,749][_internal.py:113][INFO][4444] - 127.0.0.1 - - [26/Aug/2020 23:37:09] "[31m[1mGET /web_v1/user/logout HTTP/1.1[0m" 401 -
+[2020-08-26 23:37:37,706][base.py:440][INFO][6060] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:37:37,707][base.py:881][INFO][6060] - Added job "time_task" to job store "default"
+[2020-08-26 23:37:37,707][base.py:166][INFO][6060] - Scheduler started
+[2020-08-26 23:37:37,707][base.py:940][DEBUG][5540] - Looking for jobs to run
+[2020-08-26 23:37:37,708][base.py:1020][DEBUG][5540] - Next wakeup is due at 2020-08-26 23:38:37.705360+08:00 (in 59.998001 seconds)
+[2020-08-26 23:37:37,747][_internal.py:113][INFO][6060] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:37:39,517][_internal.py:113][INFO][13344] - 127.0.0.1 - - [26/Aug/2020 23:37:39] "[31m[1mGET /web_v1/user/logout HTTP/1.1[0m" 401 -
+[2020-08-26 23:37:40,977][_internal.py:113][INFO][8916] - 127.0.0.1 - - [26/Aug/2020 23:37:40] "[31m[1mGET /web_v1/user/logout HTTP/1.1[0m" 401 -
+[2020-08-26 23:38:37,722][base.py:940][DEBUG][5540] - Looking for jobs to run
+[2020-08-26 23:38:37,722][base.py:123][INFO][13472] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:38:37 CST)" (scheduled at 2020-08-26 23:38:37.705360+08:00)
+[2020-08-26 23:38:37,723][base.py:1020][DEBUG][5540] - Next wakeup is due at 2020-08-26 23:39:37.705360+08:00 (in 59.982653 seconds)
+[2020-08-26 23:38:37,723][base.py:144][INFO][13472] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:39:37 CST)" executed successfully
+[2020-08-26 23:39:37,707][base.py:940][DEBUG][5540] - Looking for jobs to run
+[2020-08-26 23:39:37,707][base.py:123][INFO][13472] - Running job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:39:37 CST)" (scheduled at 2020-08-26 23:39:37.705360+08:00)
+[2020-08-26 23:39:37,707][base.py:144][INFO][13472] - Job "time_task (trigger: interval[0:01:00], next run at: 2020-08-26 23:39:37 CST)" executed successfully
+[2020-08-26 23:39:37,708][base.py:1020][DEBUG][5540] - Next wakeup is due at 2020-08-26 23:40:37.705360+08:00 (in 59.998333 seconds)
+[2020-08-26 23:39:54,607][base.py:440][INFO][2972] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:39:54,608][base.py:881][INFO][2972] - Added job "time_task" to job store "default"
+[2020-08-26 23:39:54,608][base.py:166][INFO][2972] - Scheduler started
+[2020-08-26 23:39:54,609][base.py:940][DEBUG][12872] - Looking for jobs to run
+[2020-08-26 23:39:54,609][base.py:1020][DEBUG][12872] - Next wakeup is due at 2020-08-26 23:40:54.607248+08:00 (in 59.998002 seconds)
+[2020-08-26 23:39:54,646][_internal.py:113][INFO][2972] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:40:00,272][_internal.py:113][INFO][13500] - 127.0.0.1 - - [26/Aug/2020 23:40:00] "[31m[1mGET /web_v1/user/logout HTTP/1.1[0m" 401 -
+[2020-08-26 23:40:09,276][userService.py:20][INFO][7788] - userService - login - Parameter:<application.web_v1.validators.forms.UserLoginForm object at 0x000001CD7E658308>
+[2020-08-26 23:40:09,459][_internal.py:113][INFO][7788] - 127.0.0.1 - - [26/Aug/2020 23:40:09] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-08-26 23:40:32,853][base.py:440][INFO][12908] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2020-08-26 23:40:32,854][base.py:881][INFO][12908] - Added job "time_task" to job store "default"
+[2020-08-26 23:40:32,854][base.py:166][INFO][12908] - Scheduler started
+[2020-08-26 23:40:32,855][base.py:940][DEBUG][2664] - Looking for jobs to run
+[2020-08-26 23:40:32,855][base.py:1020][DEBUG][2664] - Next wakeup is due at 2020-08-26 23:41:32.853146+08:00 (in 59.998001 seconds)
+[2020-08-26 23:40:32,903][_internal.py:113][INFO][12908] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:40:38,719][_internal.py:113][INFO][12680] - 127.0.0.1 - - [26/Aug/2020 23:40:38] "[31m[1mPOST /web_v1/user/test HTTP/1.1[0m" 405 -
+[2020-08-26 23:40:42,979][_internal.py:113][INFO][11380] - 127.0.0.1 - - [26/Aug/2020 23:40:42] "[37mGET /web_v1/user/test HTTP/1.1[0m" 200 -
+[2020-08-26 23:41:00,700][userService.py:39][INFO][6984] - userService - logout - Parameter:
+[2020-08-26 23:41:00,701][_internal.py:113][INFO][6984] - 127.0.0.1 - - [26/Aug/2020 23:41:00] "[37mGET /web_v1/user/logout HTTP/1.1[0m" 200 -
+[2020-08-26 23:41:05,448][_internal.py:113][INFO][13352] - 127.0.0.1 - - [26/Aug/2020 23:41:05] "[31m[1mGET /web_v1/user/test HTTP/1.1[0m" 401 -
