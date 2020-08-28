@@ -1,3 +1,11 @@
+# flask-demo
+**flask框架通用后台架构**
+
+该项目主要由flask+redis+mongodb构成
+集成了flask众多组件:
+Flask-APScheduler
+Flask-Cors
+Flask-HTTPAuth
 Flask-Login
 flask-mongoengine
 Flask-PyMongo
