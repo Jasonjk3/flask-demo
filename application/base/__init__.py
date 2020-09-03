@@ -16,9 +16,10 @@ mongo = initMongoDb(app)
 from application.base.redis import MyRedis
 
 redis = MyRedis(host=app.config['REDIS_HOST'], port=app.config['REDIS_PORT'])
-myRedis = redis.initRedis(db=1)
-myRedis_conf = redis.initRedis(db=2)
-myRedis_user = redis.initRedis(db=3)
+redis_conf = MyRedis(host=app.config['REDIS_HOST'], port=app.config['REDIS_PORT'],db=2)
+redis_user = MyRedis(host=app.config['REDIS_HOST'], port=app.config['REDIS_PORT'],db=3)
+
+redis_conf.load_dictionary()
 
 # 实例化flask_login
 from flask_login import LoginManager
@@ -28,8 +29,8 @@ login_manager.session_protection = "strong"  # 会话保护
 login_manager.init_app(app)
 
 # CSRF 保护
-# from flask_wtf.csrf import CsrfProtect
-# CsrfProtect(app)
+# from flask_wtf.csrf import CSRFProtect
+# CSRFProtect(app)
 
 # 初始化upload
 # from flask_uploads import configure_uploads,UploadSet

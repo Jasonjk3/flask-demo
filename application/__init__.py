@@ -12,8 +12,6 @@ from application.web_v1 import create_blueprint_web_v1
 app.register_blueprint(create_blueprint_restful_v1(), url_prefix='/restful_v1')
 app.register_blueprint(create_blueprint_web_v1(), url_prefix='/web_v1')
 
-#配置全局跨域
-from flask_cors import CORS
-CORS(app, supports_credentials=True)
+
 
 

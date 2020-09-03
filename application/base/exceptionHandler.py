@@ -1,7 +1,7 @@
 from werkzeug.exceptions import HTTPException
 
 from application import app
-from application.base import login_manager
+from application.base import login_manager,log
 from application.base.httpException import ServerError, APIException, NotLoggedInException
 
 
@@ -12,6 +12,7 @@ def framework_error(e):
     :param e:
     :return:
     """
+    log.error(e.description)
     if isinstance(e, APIException):
         return e
     if isinstance(e, HTTPException):

@@ -34,30 +34,3 @@ class WX_API():
 
 
 
-if __name__ == '__main__':
-    token=WX_API().get_token()
-    data = {
-        "first": {
-            "value": "恭喜你购买成功！",
-            "color": "#173177"
-        },
-        "keyword1": {
-            "value": "巧克力\n 123123213123213",
-            "color": "#173177"
-        },
-        "keyword2": {
-            "value": "39.8元",
-            "color": "#173177"
-        },
-        "keyword3": {
-            "value": "2014年9月22日",
-            "color": "#173177"
-        },
-        "remark": {
-            "value": "欢迎再次购买！",
-            "color": "#173177"
-        }
-    }
-    url='http://www.long58.com.cn/sop'
-    rep=WX_API().send_msg(openId="o5N0quHwv2dPYcCJnnde7_bDRxXM",tempId="NRcy1S73-isr5GTr0dpRoZ481SHrZ0NuxcsHhPJfCTA",data=data,token=token,url=url)
-    print(rep)
