@@ -1,11 +1,12 @@
 from collections import namedtuple
 
-from flask import current_app, g
+from flask import current_app, g, request
 from flask_httpauth import HTTPBasicAuth
 from itsdangerous import TimedJSONWebSignatureSerializer \
     as Serializer, BadSignature, SignatureExpired
 
-from application.base.httpException import AuthFailed
+from application.base.httpException import AuthFailed, Forbidden
+from application.restful_v1.libs.auth import is_in_scope
 from application.restful_v1.model.user import User
 
 UserTokenInfo = namedtuple('UserTokenInfo', ['secret'])
@@ -47,13 +48,18 @@ def parse_token(token):
         raise AuthFailed(msg='token is expired',
                          error_code=1003)
     secret = data['secret']
+    auth = data['auth']
+    allow = is_in_scope(auth, request.endpoint)
+    if not allow:
+        raise Forbidden()
     return UserTokenInfo(secret)
 
 
-def generate_auth_token(secret, expiration=7200):
+def generate_auth_token(secret, auth, expiration=7200):
     """生成令牌"""
     s = Serializer(current_app.config['SECRET_KEY'],
                    expires_in=expiration)
     return s.dumps({
-        'secret': secret
+        'secret': secret,
+        'auth': auth
     })

@@ -43,11 +43,6 @@ class Success(APIException):
     error_code = 0
 
 
-class DeleteSuccess(Success):
-    code = 202
-    error_code = 1
-
-
 class ServerError(APIException):
     code = 500
     msg = '服务器繁忙，请稍后再试'
@@ -58,14 +53,6 @@ class NotLoggedInException(APIException):
     msg = '用户未登录，请登录再试'
     error_code = 505
 
-class ClientTypeError(APIException):
-    # 400 401 403 404
-    # 500
-    # 200 201 204
-    # 301 302
-    code = 400
-    msg = 'client is invalid'
-    error_code = 1006
 
 
 class ParameterException(APIException):
@@ -81,7 +68,7 @@ class MethodsException(APIException):
 
 class NotFound(APIException):
     code = 404
-    msg = 'the resource are not found O__O...'
+    msg = 'the resource are not found '
     error_code = 1001
 
 
@@ -94,10 +81,6 @@ class AuthFailed(APIException):
 class Forbidden(APIException):
     code = 403
     error_code = 1004
-    msg = 'forbidden, not in scope'
+    msg = 'forbidden, not in auth'
 
 
-class DuplicateGift(APIException):
-    code = 400
-    error_code = 2001
-    msg = 'the current book has already in gift'

@@ -27,9 +27,7 @@ def login(form):
         return ajaxResponse.success(message="登录成功")
     else:
         return ajaxResponse.fail(message='密码错误，请重试')
-    # except Exception as e:
-    #     log.error("userService - login - 错误 - {}".format(e))
-    #     raise ServerError()
+
 
 def logout():
     """

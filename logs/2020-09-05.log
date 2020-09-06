@@ -1,0 +1,38 @@
+[2020-09-05 23:27:29,780][redis.py:105][INFO][12884] - 加载配置中...
+[2020-09-05 23:27:29,781][redis.py:107][INFO][12884] - 加载配置成功
+[2020-09-05 23:27:29,863][_internal.py:113][INFO][12884] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-09-05 23:28:06,392][userService.py:46][INFO][9740] - userService - register - Parameter:<application.web_v1.validators.userForms.UserForm object at 0x0000020AEC492708>
+[2020-09-05 23:28:06,423][_internal.py:113][INFO][9740] - 127.0.0.1 - - [05/Sep/2020 23:28:06] "[37mPOST /web_v1/user/register HTTP/1.1[0m" 200 -
+[2020-09-05 23:28:10,301][userService.py:46][INFO][6076] - userService - register - Parameter:<application.web_v1.validators.userForms.UserForm object at 0x0000020AEC63C088>
+[2020-09-05 23:28:10,641][_internal.py:113][INFO][6076] - 127.0.0.1 - - [05/Sep/2020 23:28:10] "[37mPOST /web_v1/user/register HTTP/1.1[0m" 200 -
+[2020-09-05 23:28:32,551][userService.py:20][INFO][13828] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x0000020AEC65C148>
+[2020-09-05 23:28:32,684][_internal.py:113][INFO][13828] - 127.0.0.1 - - [05/Sep/2020 23:28:32] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-09-05 23:28:41,224][userService.py:11][INFO][9724] - getToken - 成功 - Parameter:<application.restful_v1.validators.userForms.GetTokenForm object at 0x0000020AEC661CC8>
+[2020-09-05 23:28:41,226][_internal.py:113][INFO][9724] - 127.0.0.1 - - [05/Sep/2020 23:28:41] "[37mGET /restful_v1/user/getToken?secret=eJwlzrsNAjEMANBdUlP4Eyc2yyAntgXtHVSI3UFigaf3brc68ry36_N45aXdHtGujXpVDRgrQlcZ9qzpun1rUieGichp0xbLXi4KkKgZROXWF4eFZe1aQRU1hOMnoBr4IHTVEhUTW8hrF4UgTYCtRNNAMZjbL_I68_hvpIQ91R0wMcd08j2z9_b5Aq9oNi4 HTTP/1.1[0m" 200 -
+[2020-09-05 23:28:48,591][userService.py:11][INFO][8556] - getToken - 成功 - Parameter:<application.restful_v1.validators.userForms.GetTokenForm object at 0x0000020AEC672C48>
+[2020-09-05 23:28:48,593][_internal.py:113][INFO][8556] - 127.0.0.1 - - [05/Sep/2020 23:28:48] "[37mGET /restful_v1/user/getToken?secret=eJwlzrsNAjEMANBdUlP4Eyc2yyAntgXtHVSI3UFigaf3brc68ry36_N45aXdHtGujXpVDRgrQlcZ9qzpun1rUieGichp0xbLXi4KkKgZROXWF4eFZe1aQRU1hOMnoBr4IHTVEhUTW8hrF4UgTYCtRNNAMZjbL_I68_hvpIQ91R0wMcd08j2z9_b5Aq9oNi4 HTTP/1.1[0m" 200 -
+[2020-09-05 23:29:14,769][userService.py:69][INFO][2072] - getToken - getSecret - Parameter:5f53ae8aa01e1e67a2ac7e44
+[2020-09-05 23:29:14,772][_internal.py:113][INFO][2072] - 127.0.0.1 - - [05/Sep/2020 23:29:14] "[37mGET /web_v1/user/getSecret HTTP/1.1[0m" 200 -
+[2020-09-05 23:29:29,411][userService.py:11][INFO][12212] - getToken - 成功 - Parameter:<application.restful_v1.validators.userForms.GetTokenForm object at 0x0000020AEC67C688>
+[2020-09-05 23:29:29,413][_internal.py:113][INFO][12212] - 127.0.0.1 - - [05/Sep/2020 23:29:29] "[37mGET /restful_v1/user/getToken?secret=eJwlzrsNAjEMANBdUlP4Eyc2yyAntgXtHVSI3UFigaf3brc68ry36_N45aXdHtGujXpVDRgrQlcZ9qzpun1rUieGichp0xbLXi4KkKgZROXWF4eFZe1aQRU1hOMnoBr4IHTVEhUTW8hrF4UgTYCtRNNAMZjbL_I68_hvpIQ91R0wMcd08j2z9_b5Aq9oNi4 HTTP/1.1[0m" 200 -
+[2020-09-05 23:29:39,175][_internal.py:113][INFO][6920] - 127.0.0.1 - - [05/Sep/2020 23:29:39] "[31m[1mGET /restful_v1/news/test HTTP/1.1[0m" 401 -
+[2020-09-05 23:29:46,515][_internal.py:113][INFO][13424] - 127.0.0.1 - - [05/Sep/2020 23:29:46] "[31m[1mGET /restful_v1/news/test HTTP/1.1[0m" 401 -
+[2020-09-05 23:30:23,457][redis.py:105][INFO][15272] - 加载配置中...
+[2020-09-05 23:30:23,457][redis.py:107][INFO][15272] - 加载配置成功
+[2020-09-05 23:30:29,286][_internal.py:113][INFO][15272] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-09-05 23:30:57,281][_internal.py:113][INFO][9456] - 127.0.0.1 - - [05/Sep/2020 23:30:57] "[31m[1mGET /restful_v1/news/test HTTP/1.1[0m" 401 -
+[2020-09-05 23:31:22,656][userService.py:11][INFO][6772] - getToken - 成功 - Parameter:<application.restful_v1.validators.userForms.GetTokenForm object at 0x000001DE2A489A48>
+[2020-09-05 23:31:22,687][_internal.py:113][INFO][6772] - 127.0.0.1 - - [05/Sep/2020 23:31:22] "[37mGET /restful_v1/user/getToken?secret=pbkdf2:sha256:150000$SFw7npyc$73bcd862cf6d03953863f0c231d4005dd833bf6e8422e44785d89c43bb9f7c2e HTTP/1.1[0m" 200 -
+[2020-09-05 23:34:09,974][_internal.py:113][INFO][3376] - 127.0.0.1 - - [05/Sep/2020 23:34:09] "[31m[1mGET /restful_v1/news/test HTTP/1.1[0m" 403 -
+[2020-09-05 23:37:39,855][redis.py:105][INFO][4936] - 加载配置中...
+[2020-09-05 23:37:39,855][redis.py:107][INFO][4936] - 加载配置成功
+[2020-09-05 23:37:39,920][_internal.py:113][INFO][4936] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-09-05 23:37:52,054][_internal.py:113][INFO][14768] - 127.0.0.1 - - [05/Sep/2020 23:37:52] "[31m[1mGET /restful_v1/news/test HTTP/1.1[0m" 403 -
+[2020-09-05 23:38:03,049][_internal.py:113][INFO][14228] - 127.0.0.1 - - [05/Sep/2020 23:38:03] "[31m[1mGET /restful_v1/news/test HTTP/1.1[0m" 403 -
+[2020-09-05 23:38:30,664][redis.py:105][INFO][10152] - 加载配置中...
+[2020-09-05 23:38:30,664][redis.py:107][INFO][10152] - 加载配置成功
+[2020-09-05 23:38:30,737][_internal.py:113][INFO][10152] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-09-05 23:40:26,850][redis.py:105][INFO][14612] - 加载配置中...
+[2020-09-05 23:40:26,851][redis.py:107][INFO][14612] - 加载配置成功
+[2020-09-05 23:40:26,919][_internal.py:113][INFO][14612] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-09-05 23:40:28,923][_internal.py:113][INFO][2932] - 127.0.0.1 - - [05/Sep/2020 23:40:28] "[37mGET /restful_v1/news/test HTTP/1.1[0m" 200 -

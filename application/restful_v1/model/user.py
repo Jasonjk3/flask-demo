@@ -16,7 +16,7 @@ class User(Document):
     password = StringField(max_length=200)
     secret=StringField(max_length=200)
     # headimg = StringField(max_length=200)  # 头像
-    role = StringField(max_length=100)  # 用户身份
+    role = IntField(default=1)  # 用户身份
     nick_name = StringField(max_length=100)  # 昵称
     phone = StringField(max_length=100)  # 手机号
     meta = {"collection": "users"}

@@ -1,0 +1,52 @@
+[2020-09-03 22:19:06,702][_internal.py:113][INFO][4828] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-09-03 22:19:24,139][csrf.py:258][INFO][13168] - The CSRF token is missing.
+[2020-09-03 22:19:24,140][_internal.py:113][INFO][13168] - 127.0.0.1 - - [03/Sep/2020 22:19:24] "[31m[1mPOST /web_v1/user/login HTTP/1.1[0m" 400 -
+[2020-09-03 22:19:51,603][csrf.py:258][INFO][14704] - The CSRF token is missing.
+[2020-09-03 22:19:51,603][_internal.py:113][INFO][14704] - 127.0.0.1 - - [03/Sep/2020 22:19:51] "[31m[1mPOST /web_v1/user/login HTTP/1.1[0m" 400 -
+[2020-09-03 22:19:53,594][csrf.py:258][INFO][13812] - The CSRF token is missing.
+[2020-09-03 22:19:53,595][_internal.py:113][INFO][13812] - 127.0.0.1 - - [03/Sep/2020 22:19:53] "[31m[1mPOST /web_v1/user/login HTTP/1.1[0m" 400 -
+[2020-09-03 22:25:25,523][_internal.py:113][INFO][13756] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-09-03 22:25:29,330][userService.py:20][INFO][12336] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x0000019AAE445C48>
+[2020-09-03 22:25:29,353][_internal.py:113][INFO][12336] - 127.0.0.1 - - [03/Sep/2020 22:25:29] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-09-03 22:25:39,854][userService.py:20][INFO][14840] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x0000019AAFA6B808>
+[2020-09-03 22:25:39,855][_internal.py:113][INFO][14840] - 127.0.0.1 - - [03/Sep/2020 22:25:39] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-09-03 22:25:54,569][userService.py:20][INFO][14720] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x0000019AAFA89A48>
+[2020-09-03 22:25:54,571][_internal.py:113][INFO][14720] - 127.0.0.1 - - [03/Sep/2020 22:25:54] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-09-03 22:27:06,284][_internal.py:113][INFO][13784] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-09-03 22:27:13,947][userService.py:20][INFO][6824] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x000002896B62F148>
+[2020-09-03 22:27:13,976][_internal.py:113][INFO][6824] - 127.0.0.1 - - [03/Sep/2020 22:27:13] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-09-03 22:35:33,327][_internal.py:113][INFO][14308] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-09-03 22:36:08,001][redis.py:105][INFO][12684] - 加载配置中..
+[2020-09-03 22:36:08,001][redis.py:107][INFO][12684] - 加载配置成功
+[2020-09-03 22:36:08,053][_internal.py:113][INFO][12684] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-09-03 22:36:27,519][redis.py:105][INFO][7996] - 加载配置中...
+[2020-09-03 22:36:27,519][redis.py:107][INFO][7996] - 加载配置成功
+[2020-09-03 22:36:27,567][_internal.py:113][INFO][7996] -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+[2020-09-03 23:32:46,700][userService.py:20][INFO][11972] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x000001BC6BF3FA48>
+[2020-09-03 23:32:46,714][_internal.py:113][INFO][11972] - 127.0.0.1 - - [03/Sep/2020 23:32:46] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-09-03 23:34:52,205][_internal.py:113][INFO][13340] - 127.0.0.1 - - [03/Sep/2020 23:34:52] "[33mPOST /restful_v1/user/login HTTP/1.1[0m" 404 -
+[2020-09-03 23:35:14,916][_internal.py:113][INFO][6480] - 127.0.0.1 - - [03/Sep/2020 23:35:14] "[31m[1mPOST /restful_v1/user/getToken HTTP/1.1[0m" 405 -
+[2020-09-03 23:35:18,850][baseForm.py:22][ERROR][3028] - {'secret': ['This field is required.']}
+[2020-09-03 23:35:18,851][_internal.py:113][INFO][3028] - 127.0.0.1 - - [03/Sep/2020 23:35:18] "[31m[1mGET /restful_v1/user/getToken HTTP/1.1[0m" 400 -
+[2020-09-03 23:35:38,502][userService.py:20][INFO][9592] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x000001BC6C118248>
+[2020-09-03 23:35:38,505][_internal.py:113][INFO][9592] - 127.0.0.1 - - [03/Sep/2020 23:35:38] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-09-03 23:35:43,275][userService.py:20][INFO][15160] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x000001BC6C118B48>
+[2020-09-03 23:35:43,277][_internal.py:113][INFO][15160] - 127.0.0.1 - - [03/Sep/2020 23:35:43] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-09-03 23:35:47,606][userService.py:20][INFO][13804] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x000001BC6C11DB88>
+[2020-09-03 23:35:47,608][_internal.py:113][INFO][13804] - 127.0.0.1 - - [03/Sep/2020 23:35:47] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-09-03 23:36:55,867][userService.py:20][INFO][14380] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x000001BC6C120948>
+[2020-09-03 23:36:55,871][_internal.py:113][INFO][14380] - 127.0.0.1 - - [03/Sep/2020 23:36:55] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-09-03 23:37:01,889][userService.py:20][INFO][7684] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x000001BC6C123408>
+[2020-09-03 23:37:01,892][_internal.py:113][INFO][7684] - 127.0.0.1 - - [03/Sep/2020 23:37:01] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-09-03 23:37:34,906][userService.py:48][INFO][4012] - userService - register - Parameter:<application.web_v1.validators.userForms.UserForm object at 0x000001BC6C11F2C8>
+[2020-09-03 23:37:34,908][_internal.py:113][INFO][4012] - 127.0.0.1 - - [03/Sep/2020 23:37:34] "[37mPOST /web_v1/user/register HTTP/1.1[0m" 200 -
+[2020-09-03 23:37:38,750][userService.py:48][INFO][2236] - userService - register - Parameter:<application.web_v1.validators.userForms.UserForm object at 0x000001BC6C120088>
+[2020-09-03 23:37:39,024][_internal.py:113][INFO][2236] - 127.0.0.1 - - [03/Sep/2020 23:37:39] "[37mPOST /web_v1/user/register HTTP/1.1[0m" 200 -
+[2020-09-03 23:37:46,671][userService.py:20][INFO][1200] - userService - login - Parameter:<application.web_v1.validators.userForms.UserLoginForm object at 0x000001BC6C11D3C8>
+[2020-09-03 23:37:46,851][_internal.py:113][INFO][1200] - 127.0.0.1 - - [03/Sep/2020 23:37:46] "[37mPOST /web_v1/user/login HTTP/1.1[0m" 200 -
+[2020-09-03 23:38:37,803][userService.py:71][INFO][14908] - getToken - getSecret - Parameter:5f510dc3e84af61919adc728
+[2020-09-03 23:38:37,805][_internal.py:113][INFO][14908] - 127.0.0.1 - - [03/Sep/2020 23:38:37] "[37mGET /web_v1/user/getSecret HTTP/1.1[0m" 200 -
+[2020-09-03 23:38:57,999][userService.py:11][INFO][12928] - getToken - 成功 - Parameter:<application.restful_v1.validators.userForms.GetTokenForm object at 0x000001BC6C115888>
+[2020-09-03 23:38:58,003][_internal.py:113][INFO][12928] - 127.0.0.1 - - [03/Sep/2020 23:38:58] "[37mGET /restful_v1/user/getToken?secret=pbkdf2:sha256:150000$l0c3686H$f8dd2d11fb77455e6ccf54d38c2c56199ef19164776978c1548a241b224104c8 HTTP/1.1[0m" 200 -
+[2020-09-03 23:39:49,683][_internal.py:113][INFO][1652] - 127.0.0.1 - - [03/Sep/2020 23:39:49] "[31m[1mGET /restful_v1/news/test HTTP/1.1[0m" 401 -
+[2020-09-03 23:40:01,772][_internal.py:113][INFO][1104] - 127.0.0.1 - - [03/Sep/2020 23:40:01] "[37mGET /restful_v1/news/test HTTP/1.1[0m" 200 -

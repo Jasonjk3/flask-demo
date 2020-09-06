@@ -9,10 +9,11 @@ from application.restful_v1.model.user import User
 def getToken(form):
     try:
         log.info("getToken - 成功 - Parameter:{}".format(form))
-        user=User.objects(secret=form.secret.data).first()
+        user = User.objects(secret=form.secret.data).first()
         if user:
             expiration = current_app.config['TOKEN_EXPIRATION']
-            token = generate_auth_token(form.secret.data, expiration)
+            role = {1: "UserScope", 2: "AdminScope"}
+            token = generate_auth_token(secret=form.secret.data, auth=role[user.role], expiration=expiration)
             model = {'token': token.decode('ascii')}
             return ajaxResponse.success(data=model, message="返回token成功")
         else:
@@ -20,4 +21,3 @@ def getToken(form):
     except Exception as e:
         log.error("loginService - 错误 - {}".format(e))
         raise ServerError()
-

@@ -3,7 +3,7 @@ from application.restful_v1.libs.token_auth import auth
 from application.restful_v1.service import userService
 from application.restful_v1.validators.userForms import GetTokenForm
 
-api=RedPrint('user_red')
+api=RedPrint('user')
 
 @api.route('/test',methods=['GET'])
 @auth.login_required
