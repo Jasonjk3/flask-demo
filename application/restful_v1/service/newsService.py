@@ -12,7 +12,7 @@ def saveNews(form):
     :return:
     """
     try:
-        log.info("saveNews - 成功 - Parameter:{}".format(form))
+        log.info("成功 - Parameter:{}".format(form))
         news = News()
         news.author=form.author.data
         news.title=form.title.data
@@ -22,7 +22,7 @@ def saveNews(form):
         print(result)
         return ajaxResponse.success(message="保存成功")
     except Exception as e:
-        log.error("saveNews - 错误 - {}".format(e))
+        log.error("错误 - {}".format(e))
         raise ServerError()
 
 def getNews(form):
@@ -32,7 +32,7 @@ def getNews(form):
     :return:
     """
     try:
-        log.info("getNews - 成功 - Parameter:{}".format(form))
+        log.info("成功 - Parameter:{}".format(form))
         users = User.objects.with_id(form.id.data).skip((1-form.page)*form.limit.data).\
             limit(form.limit.data)
         if users:
@@ -43,5 +43,5 @@ def getNews(form):
         else:
             return ajaxResponse.fail(message="无此新闻")
     except Exception as e:
-        log.error("getNews - 错误 - {}".format(e))
+        log.error("错误 - {}".format(e))
         raise ServerError()

@@ -5,9 +5,8 @@ from config.globals import CodeEnum
 
 # ajax 返回json格式
 
-def success(is_success=True, code=CodeEnum.SUCCESS.value, data=None, message='执行成功'):
+def success(message='执行成功', data=None,code=CodeEnum.SUCCESS.value):
     result_json = {
-        'isSuccess': is_success,
         'code': code,
         'data': data,
         'message': message
@@ -16,9 +15,8 @@ def success(is_success=True, code=CodeEnum.SUCCESS.value, data=None, message='�
     return jsonify(result_json)
 
 
-def fail(is_success=False, code=CodeEnum.ERROR.value, data=None, message='执行失败'):
+def fail(message='执行失败', data=None ,code=CodeEnum.ERROR.value):
     result_json = {
-        'isSuccess': is_success,
         'code': code,
         'data': data,
         'message': message

@@ -5,12 +5,16 @@ from application import app
 
 from application.base.log import initLog
 
-log = initLog()
+log = initLog(app.config['LOG_LEVEL'])
+log.info("初始化对象中...")
+log.info(f"日志等级:{app.config['LOG_LEVEL']}")
 
 # 实例化数据库
 from application.base.mongodb import initMongoDb
 
-mongo = initMongoDb(app)
+# mongo = init_mongoengine_MongoDb(app)
+mongo_data = initMongoDb(app.config['MONGO_URI'],app.config['MONGO_DATASERVER'])
+log.info("数据库连接对象:"+app.config['MONGO_URI'])
 
 # 实例化edis
 from application.base.redis import MyRedis
@@ -41,10 +45,10 @@ login_manager.init_app(app)
 # 配置定时器任务
 if app.config['CONFIG_SCHEDULER']:
     from application.base.scheduler import initScheduler
-
     initScheduler(app, log)
 
 # 配置全局跨域
 from flask_cors import CORS
-
 CORS(app, supports_credentials=True)
+
+log.info("初始化对象成功")

@@ -8,7 +8,7 @@ from application.restful_v1.model.user import User
 
 def getToken(form):
     try:
-        log.info("getToken - 成功 - Parameter:{}".format(form))
+        log.info("成功 - Parameter:{}".format(form))
         user = User.objects(secret=form.secret.data).first()
         if user:
             expiration = current_app.config['TOKEN_EXPIRATION']
@@ -19,5 +19,5 @@ def getToken(form):
         else:
             return ajaxResponse.fail(message="secret无效")
     except Exception as e:
-        log.error("loginService - 错误 - {}".format(e))
+        log.error("错误 - {}".format(e))
         raise ServerError()

@@ -17,7 +17,7 @@ def load_user(user_id):
 
 def login(form):
     # try:
-    log.info("userService - login - Parameter:{}".format(form))
+    log.info("Parameter:{}".format(form))
     user = User.objects(account=form.account.data).first()
     if user is None:
         return ajaxResponse.fail(message='账号不存在，请重试')
@@ -35,7 +35,7 @@ def logout():
     :param form:
     :return:
     """
-    log.info("userService - logout - Parameter:{}".format(''))
+    log.info("Parameter:{}".format(''))
     logout_user()
     return ajaxResponse.success(message='注销成功')
 
@@ -43,7 +43,7 @@ def logout():
 
 def register(form):
     try:
-        log.info("userService - register - Parameter:{}".format(form))
+        log.info("Parameter:{}".format(form))
         verify=User.objects(account=form.account.data).first()
         if verify:
             return ajaxResponse.fail(message='用户已存在')
@@ -60,13 +60,13 @@ def register(form):
         else:
             return ajaxResponse.fail(message='注册成功失败，请重试')
     except Exception as e:
-        log.error("userService - register - 错误 - {}".format(e))
+        log.error("错误 - {}".format(e))
         raise ServerError()
 
 
 def getSecret():
     try:
-        log.info("getToken - getSecret - Parameter:{}".format(current_user.id))
+        log.info("Parameter:{}".format(current_user.id))
         id=current_user.id
         user=User.objects.with_id(id)
         if user:
@@ -74,5 +74,5 @@ def getSecret():
         else:
             return ajaxResponse.fail()
     except Exception as e:
-        log.error("loginService - getSecret - 错误 - {}".format(e))
+        log.error("错误 - {}".format(e))
         raise ServerError()

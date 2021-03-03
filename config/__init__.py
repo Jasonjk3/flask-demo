@@ -1,25 +1,19 @@
 # 获取配置文件信息
-import configparser
 from os import path
-
-
-def initConf(file):
-    try:
-        conf = configparser.ConfigParser()
-        conf.read(file, encoding="utf-8")
-        return conf
-    except Exception as ex:
-        raise ex
-
-
-config = initConf('./config.ini')
-
 
 class BaseConfig(object):
     """
     公共配置环境
     """
     DEBUG = True
+
+    # 程序运行IP端口
+    RUN_IP = "0.0.0.0"
+    RUN_PORT = "5002"
+
+    # in [ERROR DEBUG WARNING INFO]
+    LOG_LEVEL = 'ERROR'
+
     # redis
     REDIS_HOST = "127.0.0.1"
     REDIS_PORT = "6379"
@@ -37,7 +31,9 @@ class BaseConfig(object):
     CONFIG_SCHEDULER = False
 
     # MongoDB
-    MONGO_URI = 'mongodb://localhost:27017/data'
+    MONGO_URI = 'mongodb://localhost:27017'
+    MONGO_DATASERVER = 'Data_Server'
+
     # MONGO_USERNAME = 'bjhee'
     # MONGO_PASSWORD = '111111'
 
@@ -75,4 +71,4 @@ settings = {
     'ProductConfig': ProductConfig
 }
 # 开发环境
-setting = settings[config.get("BASE", "Settings")]
+setting = settings['ProductConfig']
