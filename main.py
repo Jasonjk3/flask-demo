@@ -1,4 +1,10 @@
 from application import app
+from flask import request
+
+@app.route('/', methods=['GET'])
+def index():
+    print(request.headers)
+    return 'hello'
 
 
 if __name__ == '__main__':

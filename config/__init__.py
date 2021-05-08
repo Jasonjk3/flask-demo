@@ -9,7 +9,7 @@ class BaseConfig(object):
 
     # 程序运行IP端口
     RUN_IP = "0.0.0.0"
-    RUN_PORT = "5002"
+    RUN_PORT = "5003"
 
     # in [ERROR DEBUG WARNING INFO]
     LOG_LEVEL = 'ERROR'
