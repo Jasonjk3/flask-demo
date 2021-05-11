@@ -16,6 +16,9 @@ from application.base.mongodb import initMongoDb
 mongo_data = initMongoDb(app.config['MONGO_URI'],app.config['MONGO_DATASERVER'])
 log.info("数据库连接对象:"+app.config['MONGO_URI'])
 
+from flask_sqlalchemy import SQLAlchemy
+mysql_db = SQLAlchemy(app)
+
 # 实例化edis
 from application.base.redis import MyRedis
 
@@ -25,6 +28,7 @@ redis_user = MyRedis(host=app.config['REDIS_HOST'], port=app.config['REDIS_PORT'
 
 redis_conf.load_dictionary()
 
+
 # 实例化flask_login
 from flask_login import LoginManager
 
@@ -33,8 +37,8 @@ login_manager.session_protection = "strong"  # 会话保护
 login_manager.init_app(app)
 
 # CSRF 保护
-# from flask_wtf.csrf import CSRFProtect
-# CSRFProtect(app)
+from flask_wtf.csrf import CSRFProtect
+CSRFProtect(app)
 
 # 初始化upload
 # from flask_uploads import configure_uploads,UploadSet

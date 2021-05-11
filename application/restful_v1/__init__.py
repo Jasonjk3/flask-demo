@@ -13,9 +13,9 @@ def create_blueprint_restful_v1():
     注册红图
     :return:
     """
-    from application.restful_v1.controller import userController
-    from application.restful_v1.controller import newsController
+    from application.restful_v1.controller import newsController,weiboController,userController
     bp_v1 = Blueprint('restful_v1', __name__)
     userController.api.register(bp_v1, url_prefix='/user')
     newsController.api.register(bp_v1, url_prefix='/news')
+    userController.api.register(bp_v1, url_prefix='/weibo')
     return bp_v1
