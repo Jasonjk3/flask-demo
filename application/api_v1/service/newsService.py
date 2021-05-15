@@ -1,8 +1,10 @@
 
 from application.base import log, ajaxResponse
 from application.base.httpException import ServerError
-from application.restful_v1.model.news import News
-from application.restful_v1.model.user import User
+from application.api_v1.model.news import News
+from application.api_v1.model.user import User
+
+# 这部分都是mongodb 的ORM
 
 
 def saveNews(form):

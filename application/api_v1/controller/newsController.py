@@ -1,12 +1,10 @@
 from application.base.redPrint import RedPrint
-from application.restful_v1.libs.token_auth import auth
-from application.restful_v1.service import newsService
-from application.restful_v1.validators.newsForms import NewsForm, GetNewsForm
+from application.api_v1.service import newsService
+from application.api_v1.validators.newsForms import NewsForm, GetNewsForm
 
 api=RedPrint('news')
 
 @api.route('/test',methods=['GET'])
-@auth.login_required
 def test():
     return 'test'
 
