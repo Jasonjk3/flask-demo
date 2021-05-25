@@ -19,3 +19,4 @@ WTForms==2.3.3
 flask-restful
 Flask-SQLAlchemy
 pymysql
+pandas
