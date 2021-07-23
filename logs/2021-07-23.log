@@ -1,0 +1,9 @@
+[ERROR][11508][2021-07-23 23:36:41,058][nodeService.py:30] getNode - 错误 - 'NoneType' object has no attribute 'node_id'
+[ERROR][7256][2021-07-23 23:37:03,491][nodeService.py:29] getNode - 错误 - 'NoneType' object has no attribute 'node_id'
+[ERROR][6292][2021-07-23 23:46:45,719][baseForm.py:22] validate_for_api - {'node_id': ['This field is required.']}
+[ERROR][11928][2021-07-23 23:54:02,323][baseForm.py:22] validate_for_api - {'node_name': ['This field is required.'], 'ip': ['This field is required.'], 'port': ['This field is required.']}
+[ERROR][14684][2021-07-23 23:55:14,446][baseForm.py:22] validate_for_api - {'node_id': ['This field is required.']}
+[ERROR][14212][2021-07-24 00:00:04,343][nodeService.py:98] editNode - 错误 - (pymysql.err.IntegrityError) (1062, "Duplicate entry 'sada' for key 'Nodes.node_name'")
+[SQL: UPDATE `Nodes` SET node_name=%(node_name)s, ip=%(ip)s, port=%(port)s, note=%(note)s WHERE `Nodes`.node_id = %(Nodes_node_id)s]
+[parameters: {'node_name': 'sada', 'ip': None, 'port': None, 'note': None, 'Nodes_node_id': 8}]
+(Background on this error at: http://sqlalche.me/e/14/gkpj)

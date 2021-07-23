@@ -1,0 +1,5 @@
+[ERROR][5704][2021-07-22 23:30:20,277][baseForm.py:22] validate_for_api - {'node_name': ['This field is required.'], 'ip': ['This field is required.'], 'port': ['This field is required.']}
+[ERROR][9448][2021-07-22 23:31:55,792][nodeService.py:38] addNode - 错误 - (pymysql.err.IntegrityError) (1062, "Duplicate entry 'test' for key 'Nodes.node_name'")
+[SQL: INSERT INTO `Nodes` (node_name, ip, port, note, `status`) VALUES (%(node_name)s, %(ip)s, %(port)s, %(note)s, %(status)s)]
+[parameters: {'node_name': 'test', 'ip': '123.123.132.1', 'port': '1111', 'note': None, 'status': None}]
+(Background on this error at: http://sqlalche.me/e/14/gkpj)

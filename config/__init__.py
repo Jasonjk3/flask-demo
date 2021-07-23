@@ -36,7 +36,7 @@ class BaseConfig(object):
     MONGO_DATASERVER = 'Data_Server'
 
     # mysql 数据库
-    SQLALCHEMY_DATABASE_URI = 'mysql://root:zh1132@139.159.204.92:3306/spider'
+    SQLALCHEMY_DATABASE_URI = 'mysql://root:906906@47.119.173.1:3306/scrapy'
     # 设置sqlalchemy自动更跟踪数据库
     SQLALCHEMY_TRACK_MODIFICATIONS = True
     # 查询时会显示原始SQL语句
